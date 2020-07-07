@@ -5,8 +5,4 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="400" chromeUpdateJSOnChanges="true" />
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
