@@ -1,0 +1,8 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/typescript-deferred" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
