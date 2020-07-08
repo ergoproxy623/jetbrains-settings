@@ -1,0 +1,94 @@
+<scheme name="Darcula copy2" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-05-12T10:02:05</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-07-08T16:18:48</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="f83538" />
+    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="LINE_NUMBERS_COLOR" value="65686b" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="f26329" />
+    <option name="MODIFIED_LINES_COLOR" value="3520b" />
+    <option name="ScrollBar.hoverThumbColor" value="7fa69e59" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="729bff" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="ff5f25" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="d3d9dd" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="bf5e71" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value />
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="a5597a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="2b9da6" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc11" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a07db2" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.TYPE.ALIAS">
+      <value>
+        <option name="FOREGROUND" value="ea8cb9" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="5a97f9" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="575753" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
