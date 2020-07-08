@@ -1,10 +1,10 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="Darcula my Theme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-01-16T13:47:14</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-16T13:49:27</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="created">2020-07-08T16:09:39</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-07-08T16:10:54</property>
+    <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="f83538" />
@@ -14,6 +14,11 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="88ae0" />
+      </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
