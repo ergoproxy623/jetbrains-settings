@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="оживил" />
+      <item value="жалобы" />
+      <item value="предварительный диагноз" />
       <item value="$themecolor" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
