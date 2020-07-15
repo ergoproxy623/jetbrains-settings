@@ -1,10 +1,10 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="Darcula my Theme " version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-01-16T13:47:14</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-06-12T13:29:39</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="created">2020-07-08T16:37:00</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-07-08T16:37:17</property>
+    <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="f83538" />
@@ -38,6 +38,12 @@
     <option name="DEFAULT_IDENTIFIER">
       <value />
     </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="aa703" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_LABEL">
       <value>
         <option name="FOREGROUND" value="a5597a" />
@@ -49,6 +55,11 @@
         <option name="FOREGROUND" value="2b9da6" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="d3f800" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="cc11" />
@@ -57,34 +68,14 @@
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="INDENT_RAINBOW_COLOR_1">
+    <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="BACKGROUND" value="3a3a2c" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_2">
-      <value>
-        <option name="BACKGROUND" value="313a31" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_3">
-      <value>
-        <option name="BACKGROUND" value="3a313a" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_4">
-      <value>
-        <option name="BACKGROUND" value="2e3939" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_ERROR">
-      <value>
-        <option name="BACKGROUND" value="452828" />
+        <option name="FOREGROUND" value="6dfaff" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a07db2" />
+        <option name="FOREGROUND" value="b13939" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -99,6 +90,12 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a0cb9d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
