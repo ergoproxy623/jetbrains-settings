@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="план лечения" />
+      <item value="развитие заболевания" />
+      <item value="жалобы" />
       <item value="adress actual" />
       <item value="оживил" />
-      <item value="жалобы" />
       <item value="предварительный диагноз" />
       <item value="$themecolor" />
     </histories>
