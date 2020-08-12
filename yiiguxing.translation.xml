@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable all" />
       <item value="процент" />
       <item value="быстрое  редактирование" />
       <item value="редактирвоание шаблона формы" />
@@ -17,6 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
