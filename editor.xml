@@ -5,6 +5,7 @@
         <entry key="TypeScript" value="true" />
       </map>
     </option>
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="400" chromeUpdateJSOnChanges="true" />
 </application>
