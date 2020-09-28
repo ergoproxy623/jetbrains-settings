@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="средний чек" />
+      <item value="подделка" />
+      <item value="faike" />
+      <item value="facke" />
       <item value="disable all" />
       <item value="процент" />
       <item value="быстрое  редактирование" />
@@ -19,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
       </map>
     </option>
   </component>
