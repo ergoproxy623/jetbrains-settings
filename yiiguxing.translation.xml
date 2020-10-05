@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="вчера" />
+      <item value="средняя" />
       <item value="выручка" />
       <item value="главная страница" />
       <item value="пятый" />
