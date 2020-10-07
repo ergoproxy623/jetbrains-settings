@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="вторник" />
+      <item value="dnjhyb" />
+      <item value="between" />
+      <item value="beetwen" />
       <item value="казахский" />
       <item value="пятый" />
       <item value="четвертый" />
@@ -25,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="5" />
       </map>
     </option>
   </component>
