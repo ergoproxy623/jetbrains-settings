@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sabtu" />
+      <item value="Minggu" />
+      <item value="Maret" />
       <item value="вторник" />
       <item value="dnjhyb" />
       <item value="between" />
@@ -30,7 +33,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="RUSSIAN" value="7" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
