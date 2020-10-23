@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="диагноз" />
+      <item value="основной" />
+      <item value="по умолчанию" />
+      <item value="квадрат" />
+      <item value="невозможно" />
+      <item value="Sabtu" />
+      <item value="Minggu" />
+      <item value="Maret" />
+      <item value="вторник" />
+      <item value="dnjhyb" />
+      <item value="between" />
+      <item value="beetwen" />
       <item value="казахский" />
       <item value="пятый" />
       <item value="четвертый" />
@@ -25,8 +37,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="RUSSIAN" value="4" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="RUSSIAN" value="7" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
