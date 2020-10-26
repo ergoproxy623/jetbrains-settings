@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ячейки" />
+      <item value="ФИО" />
+      <item value="сделал" />
       <item value="диагноз" />
       <item value="основной" />
       <item value="по умолчанию" />
