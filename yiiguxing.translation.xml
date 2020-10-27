@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="починил старый код и сделал возможность уменьшать рабочие окна" />
       <item value="сдвиг влево" />
       <item value="Returns the first (starting at element) inclusive ancestor that matches selectors, and null otherwise." />
       <item value="ячейки" />
