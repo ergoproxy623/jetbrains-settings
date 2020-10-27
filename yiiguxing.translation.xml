@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the first (starting at element) inclusive ancestor that matches selectors, and null otherwise." />
       <item value="ячейки" />
       <item value="ФИО" />
       <item value="сделал" />
@@ -41,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="7" />
+        <entry key="RUSSIAN" value="8" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
