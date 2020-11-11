@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="индексация" />
+      <item value="индексации" />
+      <item value="для удачной интеграции" />
       <item value="смена" />
       <item value="замена текста тостера на универсальный" />
       <item value="Сбросить все фильтра" />
