@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="одежда" />
       <item value="для получения докуемнта дял печати" />
       <item value="завтра" />
       <item value="восстановил" />
@@ -50,7 +51,6 @@
       <item value="развитие заболевания" />
       <item value="жалобы" />
       <item value="adress actual" />
-      <item value="оживил" />
     </histories>
     <option name="languageScores">
       <map>
