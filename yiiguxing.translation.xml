@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="парный" />
+      <item value="парные" />
       <item value="Сбросить все фильтра" />
       <item value="Полный список или отфильтрованный если заполеннные инпуты фильтров" />
       <item value="Выберите язык для глобального фильтра и редактирования" />
