@@ -1,8 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="парный" />
-      <item value="парные" />
+      <item value="противоположный" />
+      <item value="одежда" />
+      <item value="для получения докуемнта дял печати" />
+      <item value="завтра" />
+      <item value="восстановил" />
+      <item value="индексация" />
+      <item value="индексации" />
+      <item value="для удачной интеграции" />
+      <item value="смена" />
+      <item value="замена текста тостера на универсальный" />
       <item value="Сбросить все фильтра" />
       <item value="Полный список или отфильтрованный если заполеннные инпуты фильтров" />
       <item value="Выберите язык для глобального фильтра и редактирования" />
@@ -43,10 +51,6 @@
       <item value="план лечения" />
       <item value="развитие заболевания" />
       <item value="жалобы" />
-      <item value="adress actual" />
-      <item value="оживил" />
-      <item value="предварительный диагноз" />
-      <item value="$themecolor" />
     </histories>
     <option name="languageScores">
       <map>
