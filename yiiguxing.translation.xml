@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ФИО" />
+      <item value="второго" />
       <item value="противоположный" />
       <item value="одежда" />
       <item value="для получения докуемнта дял печати" />
@@ -20,7 +22,6 @@
       <item value="сдвиг влево" />
       <item value="Returns the first (starting at element) inclusive ancestor that matches selectors, and null otherwise." />
       <item value="ячейки" />
-      <item value="ФИО" />
       <item value="сделал" />
       <item value="диагноз" />
       <item value="основной" />
@@ -50,7 +51,6 @@
       <item value="якорь" />
       <item value="план лечения" />
       <item value="развитие заболевания" />
-      <item value="жалобы" />
     </histories>
     <option name="languageScores">
       <map>
