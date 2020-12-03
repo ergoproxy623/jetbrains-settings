@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It's okay if some of the details are wrong/static New 2:11 I just want share design screenshot for android developer" />
+      <item value="Какие детали интересуют?" />
+      <item value="Время вышло, отправьте форму повторно" />
       <item value="разрешение" />
       <item value="основанную на " />
       <item value="ФИО" />
@@ -48,14 +51,11 @@
       <item value="disable all" />
       <item value="процент" />
       <item value="быстрое  редактирование" />
-      <item value="редактирвоание шаблона формы" />
-      <item value="Заполните последнюю форму" />
-      <item value="якорь" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="8" />
+        <entry key="RUSSIAN" value="9" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
