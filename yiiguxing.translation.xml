@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="requared" />
       <item value="Now, Please send one screenshot with empty details" />
       <item value="It's okay if some of the details are wrong/static New 2:11 I just want share design screenshot for android developer" />
       <item value="Какие детали интересуют?" />
@@ -50,7 +51,6 @@
       <item value="faike" />
       <item value="facke" />
       <item value="disable all" />
-      <item value="процент" />
     </histories>
     <option name="languageScores">
       <map>
