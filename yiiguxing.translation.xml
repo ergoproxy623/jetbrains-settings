@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="676" />
+    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="Сумма дял оплаты должна быть больше 0" />
+      <item value="Сумма дял оплаты должна быть больше " />
+      <item value="Сумма дял оплаты должна быть больше )" />
+      <item value="Сумма дял оплаты должна быть " />
+      <item value="Сумма дял оплаты должна быть" />
+      <item value="Сумма дял оплаты должна бы" />
+      <item value="Сумма дял оплаты должна " />
+      <item value="Сумма дял оплаты дол" />
+      <item value="Сумма дял оп" />
+      <item value="сумма меньше или равна нул" />
+      <item value="сумма меньше или равна ну" />
+      <item value="сумма мень" />
+      <item value="сумма мен" />
+      <item value="сумма менье" />
+      <item value="сумма " />
+      <item value="ce" />
+      <item value="amount Is Low" />
       <item value="появляеться" />
       <item value="Enubled" />
       <item value="Включено" />
@@ -34,23 +54,6 @@
       <item value="второй контрол" />
       <item value="был сохранет в ключе " />
       <item value="починил старый код и сделал возможность уменьшать рабочие окна" />
-      <item value="сдвиг влево" />
-      <item value="Returns the first (starting at element) inclusive ancestor that matches selectors, and null otherwise." />
-      <item value="ячейки" />
-      <item value="сделал" />
-      <item value="диагноз" />
-      <item value="основной" />
-      <item value="по умолчанию" />
-      <item value="квадрат" />
-      <item value="невозможно" />
-      <item value="Sabtu" />
-      <item value="Minggu" />
-      <item value="Maret" />
-      <item value="вторник" />
-      <item value="dnjhyb" />
-      <item value="between" />
-      <item value="beetwen" />
-      <item value="казахский" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,5 +62,8 @@
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608496088230" />
   </component>
 </application>
