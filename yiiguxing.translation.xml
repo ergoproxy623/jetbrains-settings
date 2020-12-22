@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="676" />
-    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="этапы" />
+      <item value="расход топлива" />
+      <item value="кресты на груди" />
       <item value="Сумма дял оплаты должна быть больше 0" />
       <item value="Сумма дял оплаты должна быть больше " />
       <item value="Сумма дял оплаты должна быть больше )" />
@@ -51,9 +51,6 @@
       <item value="Сбросить все фильтра" />
       <item value="Полный список или отфильтрованный если заполеннные инпуты фильтров" />
       <item value="Выберите язык для глобального фильтра и редактирования" />
-      <item value="второй контрол" />
-      <item value="был сохранет в ключе " />
-      <item value="починил старый код и сделал возможность уменьшать рабочие окна" />
     </histories>
     <option name="languageScores">
       <map>
