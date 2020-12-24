@@ -1,0 +1,7 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="highlightOnlyIncorrectIndent" value="true" />
+    <option name="opacityMultiplier" value="-0.61" />
+    <option name="paletteType" value="PASTEL" />
+  </component>
+</application>
