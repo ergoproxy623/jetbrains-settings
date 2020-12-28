@@ -104,13 +104,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
@@ -126,13 +126,13 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b9ca4a" />
       </value>
     </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c397d8" />
@@ -146,7 +146,7 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
     </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e04164" />
@@ -162,7 +162,7 @@
         <option name="FOREGROUND" value="74715e" />
       </value>
     </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e78c45" />
@@ -678,16 +678,16 @@
         <option name="FOREGROUND" value="b9ca4a" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="e78c45" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.REGEXP" baseAttributes="" />
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -967,7 +967,7 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="61afef" />
