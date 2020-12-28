@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="2203" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Payment Refund Info" />
+      <item value="Payment Refu" />
+      <item value="Payment Status Code" />
+      <item value="Permission" />
+      <item value="Разрешение на " />
+      <item value="Разрешение " />
+      <item value="Разрешение yf " />
+      <item value="Разрешение га " />
+      <item value="hf" />
       <item value="совпадение" />
       <item value="reguired" />
       <item value="этапы" />
@@ -42,15 +54,6 @@
       <item value="второго" />
       <item value="противоположный" />
       <item value="одежда" />
-      <item value="для получения докуемнта дял печати" />
-      <item value="завтра" />
-      <item value="восстановил" />
-      <item value="индексация" />
-      <item value="индексации" />
-      <item value="для удачной интеграции" />
-      <item value="смена" />
-      <item value="замена текста тостера на универсальный" />
-      <item value="Сбросить все фильтра" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608496088230" />
+    <option name="lastTrimTime" value="1609152987875" />
   </component>
 </application>
