@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="2203" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="2204" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="инвентаризация" />
+      <item value="инвен" />
+      <item value="inventa" />
+      <item value="in" />
+      <item value="i" />
+      <item value="инвентари" />
       <item value="Payment Refund Info" />
       <item value="Payment Refu" />
       <item value="Payment Status Code" />
@@ -48,12 +54,6 @@
       <item value="It's okay if some of the details are wrong/static New 2:11 I just want share design screenshot for android developer" />
       <item value="Какие детали интересуют?" />
       <item value="Время вышло, отправьте форму повторно" />
-      <item value="разрешение" />
-      <item value="основанную на " />
-      <item value="ФИО" />
-      <item value="второго" />
-      <item value="противоположный" />
-      <item value="одежда" />
     </histories>
     <option name="languageScores">
       <map>
