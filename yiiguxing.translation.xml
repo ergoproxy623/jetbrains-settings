@@ -1,12 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="1004" />
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="2204" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
-      <item value="в процессе" />
-      <item value="в " />
-      <item value="d" />
+      <item value="by reseller" />
+      <item value="by rese" />
+      <item value="by re" />
+      <item value="by " />
+      <item value="merge Map" />
+      <item value="закончить" />
+      <item value="pfrjyxbnm" />
+      <item value="категории" />
+      <item value="categoryes" />
+      <item value="catego" />
+      <item value="ca" />
+      <item value="инвентаризация" />
+      <item value="инвен" />
+      <item value="inventa" />
+      <item value="in" />
+      <item value="i" />
+      <item value="инвентари" />
       <item value="Payment Refund Info" />
       <item value="Payment Refu" />
       <item value="Payment Status Code" />
@@ -40,20 +54,6 @@
       <item value="amount Is Low" />
       <item value="появляеться" />
       <item value="Enubled" />
-      <item value="Включено" />
-      <item value="Подключено" />
-      <item value="Подключить твилио" />
-      <item value="сбросить" />
-      <item value="обследования" />
-      <item value="жалобы" />
-      <item value="requared" />
-      <item value="Now, Please send one screenshot with empty details" />
-      <item value="It's okay if some of the details are wrong/static New 2:11 I just want share design screenshot for android developer" />
-      <item value="Какие детали интересуют?" />
-      <item value="Время вышло, отправьте форму повторно" />
-      <item value="разрешение" />
-      <item value="основанную на " />
-      <item value="ФИО" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609679226182" />
+    <option name="lastTrimTime" value="1609746088394" />
   </component>
 </application>
