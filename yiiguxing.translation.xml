@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
-    <option name="newTranslationDialogX" value="2186" />
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="использует латинские буквы" />
+      <item value="использует латинские бук" />
+      <item value="использует латинские " />
+      <item value="использует ла" />
+      <item value="использует " />
+      <item value="use Latin letters" />
+      <item value="used Latin letters" />
       <item value="перенос строки" />
       <item value="gthtyjc cnhjrb" />
       <item value="возведение в степень" />
@@ -47,13 +54,6 @@
       <item value="pfrjyxbnm" />
       <item value="категории" />
       <item value="categoryes" />
-      <item value="catego" />
-      <item value="ca" />
-      <item value="инвентаризация" />
-      <item value="инвен" />
-      <item value="inventa" />
-      <item value="in" />
-      <item value="i" />
     </histories>
     <option name="languageScores">
       <map>
