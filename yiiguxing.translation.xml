@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
-    <option name="newTranslationDialogX" value="1026" />
+    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="fired when total pages count changes, $event:number equals to total pages count" />
       <item value="использует латинские буквы" />
       <item value="использует латинские бук" />
       <item value="использует латинские " />
@@ -53,7 +54,6 @@
       <item value="закончить" />
       <item value="pfrjyxbnm" />
       <item value="категории" />
-      <item value="categoryes" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609746088394" />
+    <option name="lastTrimTime" value="1610524564068" />
   </component>
 </application>
