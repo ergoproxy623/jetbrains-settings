@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
-    <option name="newTranslationDialogX" value="388" />
-    <option name="newTranslationDialogY" value="406" />
+    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogX" value="2186" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="НДС" />
+      <item value="Н" />
+      <item value="nds" />
       <item value="Закомитано до 2022" />
       <item value="Закомитано до 202" />
       <item value="Закомитано до 20202" />
@@ -51,9 +54,6 @@
       <item value="fac" />
       <item value="fackt" />
       <item value="остаток" />
-      <item value="jcnfnjr" />
-      <item value="by reseller" />
-      <item value="by rese" />
     </histories>
     <option name="languageScores">
       <map>
