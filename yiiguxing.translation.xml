@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="премещение" />
+      <item value="пре" />
+      <item value="gthtv" />
+      <item value="gtht" />
       <item value="НДС" />
       <item value="Н" />
       <item value="nds" />
@@ -50,10 +54,6 @@
       <item value="faktical" />
       <item value="fakt" />
       <item value="fak" />
-      <item value="fa" />
-      <item value="fac" />
-      <item value="fackt" />
-      <item value="остаток" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610524564068" />
+    <option name="lastTrimTime" value="1611316218844" />
   </component>
 </application>
