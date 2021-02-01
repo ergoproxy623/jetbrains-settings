@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
-    <option name="newTranslationDialogX" value="2186" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="676" />
+    <option name="newTranslationDialogY" value="394" />
     <histories>
+      <item value="филиалы" />
+      <item value="фи" />
+      <item value="f" />
+      <item value="fi" />
+      <item value="filials" />
       <item value="introduce" />
       <item value="премещение" />
       <item value="пре" />
@@ -49,11 +54,6 @@
       <item value="ldb;tybt " />
       <item value="ldb;tybt" />
       <item value="единицы зимерения" />
-      <item value="единицы " />
-      <item value="едини" />
-      <item value="фактически" />
-      <item value="faktical" />
-      <item value="fakt" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611316218844" />
+    <option name="lastTrimTime" value="1612019720410" />
   </component>
 </application>
