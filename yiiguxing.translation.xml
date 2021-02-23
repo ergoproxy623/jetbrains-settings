@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="831" />
+    <option name="newTranslationDialogWidth" value="829" />
     <option name="newTranslationDialogX" value="218" />
     <option name="newTranslationDialogY" value="155" />
     <histories>
+      <item value="премия" />
+      <item value="пре" />
+      <item value="premia" />
       <item value="видимость" />
       <item value="вид" />
       <item value="ви" />
@@ -20,7 +23,6 @@
       <item value="filials" />
       <item value="introduce" />
       <item value="премещение" />
-      <item value="пре" />
       <item value="gthtv" />
       <item value="gtht" />
       <item value="НДС" />
@@ -53,8 +55,6 @@
       <item value=":ehyfk " />
       <item value=":ehyfk" />
       <item value=":ehyf" />
-      <item value="Прием накладных" />
-      <item value="Ghbtv yfrkflys[" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613227996013" />
+    <option name="lastTrimTime" value="1614024569115" />
   </component>
 </application>
