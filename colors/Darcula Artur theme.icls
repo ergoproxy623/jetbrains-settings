@@ -1,10 +1,10 @@
-<scheme name="Darcula my Theme " version="142" parent_scheme="Darcula">
+<scheme name="Darcula Artur theme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-07-08T16:37:00</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.2.0.0</property>
+    <property name="created">2021-02-28T15:46:25</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.3.2.0.0</property>
     <property name="modified">2021-03-08T15:19:09</property>
-    <property name="originalScheme">Darcula copy</property>
+    <property name="originalScheme">Darcula my Theme</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="f83538" />
