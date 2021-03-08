@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="827" />
+    <option name="newTranslationDialogWidth" value="825" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Соглашение" />
+      <item value="Agriment" />
+      <item value="Фп" />
       <item value="Для больше распонсивности а неперь не нужно прятать виджет" />
       <item value="Для больше распонсивности а н" />
       <item value="Для больше распонсивности а " />
@@ -52,9 +55,6 @@
       <item value="использует латинские " />
       <item value="использует ла" />
       <item value="использует " />
-      <item value="use Latin letters" />
-      <item value="used Latin letters" />
-      <item value="перенос строки" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614024569115" />
+    <option name="lastTrimTime" value="1615197348520" />
   </component>
 </application>
