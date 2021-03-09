@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="пропустить" />
       <item value="Соглашение" />
       <item value="Agriment" />
       <item value="Фп" />
@@ -54,7 +55,6 @@
       <item value="использует латинские бук" />
       <item value="использует латинские " />
       <item value="использует ла" />
-      <item value="использует " />
     </histories>
     <option name="languageScores">
       <map>
