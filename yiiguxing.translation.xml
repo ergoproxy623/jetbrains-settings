@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="align" />
+      <item value="ali" />
       <item value="Részletfizetés" />
       <item value="Finanszírozandó összeg" />
       <item value="Szerződéskötéskor fizetendő" />
@@ -53,8 +55,6 @@
       <item value="gthtv" />
       <item value="gtht" />
       <item value="НДС" />
-      <item value="Н" />
-      <item value="nds" />
     </histories>
     <option name="languageScores">
       <map>
