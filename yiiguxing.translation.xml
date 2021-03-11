@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="809" />
+    <option name="newTranslationDialogWidth" value="807" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="monthlyCost - стоимость в месяц без скидки,&#10;salesPriceInclDiscount - Цена девайса с учётом скидки&#10;monthlyCostInclDiscount - стоимость в месяц с учётом скидки" />
       <item value="нужно спрятать весь блок или только кнопку?" />
       <item value="нужно спрятать весь блок или только " />
       <item value="нужно спрятать в" />
@@ -54,7 +55,6 @@
       <item value="Соглашение" />
       <item value="Agriment" />
       <item value="Фп" />
-      <item value="Для больше распонсивности а неперь не нужно прятать виджет" />
     </histories>
     <option name="languageScores">
       <map>
