@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="825" />
+    <option name="newTranslationDialogWidth" value="823" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Önerö" />
+      <item value="To be paid upon conclusion of the contract" />
+      <item value="Szerződéskötéskor fizetendő" />
       <item value="пропустить" />
       <item value="Соглашение" />
       <item value="Agriment" />
@@ -52,9 +55,6 @@
       <item value="Pfrjvb" />
       <item value="fired when total pages count changes, $event:number equals to total pages count" />
       <item value="использует латинские буквы" />
-      <item value="использует латинские бук" />
-      <item value="использует латинские " />
-      <item value="использует ла" />
     </histories>
     <option name="languageScores">
       <map>
