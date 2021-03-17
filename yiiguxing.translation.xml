@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1268" />
-    <option name="newTranslationDialogX" value="1887" />
-    <option name="newTranslationDialogY" value="359" />
+    <option name="newTranslationDialogWidth" value="1266" />
+    <option name="newTranslationDialogX" value="2018" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Горизонтально" />
+      <item value="Гориз" />
+      <item value="Горизона" />
+      <item value="Гори" />
       <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. Начнем с авторизации и " />
       <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. Начнем с авторизации" />
       <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. НАчнем с авторизации" />
@@ -51,10 +55,6 @@
       <item value="Тп" />
       <item value="Ы" />
       <item value="И" />
-      <item value="Имп" />
-      <item value="Им" />
-      <item value="Куа" />
-      <item value="Развернуть " />
     </histories>
     <option name="languageScores">
       <map>
