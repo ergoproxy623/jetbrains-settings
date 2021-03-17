@@ -77,8 +77,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -352,6 +352,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.doclua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
             </plugin>
           </value>
         </entry>
@@ -806,9 +814,8 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1220,6 +1227,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mako">
           <value>
             <plugin>
@@ -1503,8 +1518,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1984,6 +1999,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ttslua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="au.com.glassechidna.luanalysis" />
+              <option name="myPluginName" value="Luanalysis" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.txt">
           <value>
             <plugin>
@@ -2095,6 +2118,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wlua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Lua" />
+              <option name="myPluginName" value="Lua" />
             </plugin>
           </value>
         </entry>
