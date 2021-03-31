@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1266" />
+    <option name="newTranslationDialogWidth" value="1264" />
     <option name="newTranslationDialogX" value="2018" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Восстановить скролл" />
+      <item value="Воссановить скролл" />
+      <item value="Восановить скролл" />
+      <item value="Воттсановить скролл" />
+      <item value="Воттсановить ск" />
+      <item value="Воттсановить ско" />
       <item value="Горизонтально" />
       <item value="Гориз" />
       <item value="Горизона" />
@@ -49,12 +55,6 @@
       <item value="NgRX" />
       <item value="Ng" />
       <item value="N" />
-      <item value="NGrx" />
-      <item value="NG" />
-      <item value="ТпКЧ" />
-      <item value="Тп" />
-      <item value="Ы" />
-      <item value="И" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615814173006" />
+    <option name="lastTrimTime" value="1617192569141" />
   </component>
 </application>
