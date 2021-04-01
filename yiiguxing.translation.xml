@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2018" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="dashboard&#10;" />
+      <item value="dashboard" />
+      <item value="dash" />
+      <item value="das" />
       <item value="якорь" />
       <item value="zrjhm" />
       <item value="Восстановить скролл" />
@@ -51,10 +55,6 @@
       <item value="NgRX  импплементирва неправильно" />
       <item value="NgRX   неправильно" />
       <item value="NgRX  написан неправильно" />
-      <item value="NgRX  написан " />
-      <item value="NgRX  " />
-      <item value="NgRX " />
-      <item value="NgRX" />
     </histories>
     <option name="languageScores">
       <map>
