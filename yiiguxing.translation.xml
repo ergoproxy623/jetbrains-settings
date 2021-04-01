@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1264" />
+    <option name="newTranslationDialogWidth" value="1262" />
     <option name="newTranslationDialogX" value="334" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="ФИО" />
+      <item value="AB" />
+      <item value="перед" />
+      <item value="пере" />
+      <item value="ред" />
       <item value="единичные числа&#10;" />
       <item value="единичные числа" />
       <item value="jlbybxyst" />
@@ -50,11 +55,6 @@
       <item value="NgRX  " />
       <item value="NgRX " />
       <item value="NgRX" />
-      <item value="Ng" />
-      <item value="N" />
-      <item value="NGrx" />
-      <item value="NG" />
-      <item value="ТпКЧ" />
     </histories>
     <option name="languageScores">
       <map>
