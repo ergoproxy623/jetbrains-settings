@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1262" />
-    <option name="newTranslationDialogX" value="334" />
-    <option name="newTranslationDialogY" value="358" />
+    <option name="newTranslationDialogWidth" value="1260" />
+    <option name="newTranslationDialogX" value="1732" />
+    <option name="newTranslationDialogY" value="296" />
     <histories>
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx," />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx?" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Ng" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через " />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через ТпКч" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Тп" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля сос" />
+      <item value="Рефакторинг компонента выбора языка, добавление " />
+      <item value="Рефакторинг компонента выбора языка, добавление" />
+      <item value="Рефакторинг компонента выбора языка, до" />
+      <item value="Рефакторинг компонента выбора языка, " />
+      <item value="Рефакторинг компонента выбора языка" />
+      <item value="Рефакторинг компонента выбора " />
+      <item value="Рефакторинг компонента" />
+      <item value="Рефакторинг " />
       <item value="ФИО" />
       <item value="AB" />
       <item value="перед" />
@@ -39,22 +55,6 @@
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить" />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторитьь" />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно п" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно пеерписать з" />
-      <item value="NgRX  импплементирвать неправильно. Всю сторунужно пеерписать з" />
-      <item value="NgRX  импплементирвать неправильно. Всю сторунужно пеерписать " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору" />
-      <item value="NgRX  импплементирвать неправильно. Всю " />
-      <item value="NgRX  импплементирвать неправильно. " />
-      <item value="NgRX  импплементирвать неправильно." />
-      <item value="NgRX  импплементирвать неправильно" />
-      <item value="NgRX  импплементирва неправильно" />
-      <item value="NgRX   неправильно" />
-      <item value="NgRX  написан неправильно" />
-      <item value="NgRX  написан " />
-      <item value="NgRX  " />
-      <item value="NgRX " />
-      <item value="NgRX" />
     </histories>
     <option name="languageScores">
       <map>
