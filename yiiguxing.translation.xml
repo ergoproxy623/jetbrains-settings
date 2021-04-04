@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1534" />
+    <option name="newTranslationDialogWidth" value="1530" />
     <option name="newTranslationDialogX" value="62" />
     <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Decline" />
+      <item value="принять" />
+      <item value="инят" />
+      <item value="ghbyz " />
+      <item value="actions" />
       <item value="рефакторить" />
       <item value="факторить" />
       <item value="выровнять" />
@@ -50,11 +55,6 @@
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала" />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение йункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение qункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение ункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучн" />
     </histories>
     <option name="languageScores">
       <map>
