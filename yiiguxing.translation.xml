@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1260" />
-    <option name="newTranslationDialogX" value="1732" />
-    <option name="newTranslationDialogY" value="296" />
+    <option name="newTranslationDialogWidth" value="1534" />
+    <option name="newTranslationDialogX" value="62" />
+    <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="рефакторить" />
+      <item value="факторить" />
+      <item value="выровнять" />
+      <item value="ровнять" />
+      <item value="import {MatDialog, MatPaginator, MatSort} from &quot;@angularmaterial&quot;; import {SelectionModel} from &quot;@angularcdkcollections&quot;; import {debounceTime, distinctUntilChanged, tap} from &quot;rxjsoperators&quot;;" />
       <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx" />
       <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx," />
       <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx?" />
@@ -50,11 +55,6 @@
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и " />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку " />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучн" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторитьь" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно " />
     </histories>
     <option name="languageScores">
       <map>
