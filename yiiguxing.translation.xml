@@ -1,10 +1,44 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1266" />
-    <option name="newTranslationDialogX" value="2018" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1530" />
+    <option name="newTranslationDialogX" value="62" />
+    <option name="newTranslationDialogY" value="310" />
     <histories>
+      <item value="Decline" />
+      <item value="принять" />
+      <item value="инят" />
+      <item value="ghbyz " />
+      <item value="actions" />
+      <item value="рефакторить" />
+      <item value="факторить" />
+      <item value="выровнять" />
+      <item value="ровнять" />
+      <item value="import {MatDialog, MatPaginator, MatSort} from &quot;@angularmaterial&quot;; import {SelectionModel} from &quot;@angularcdkcollections&quot;; import {debounceTime, distinctUntilChanged, tap} from &quot;rxjsoperators&quot;;" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx," />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx?" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Ng" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через " />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через ТпКч" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Тп" />
+      <item value="Рефакторинг компонента выбора языка, добавление контроля сос" />
+      <item value="Рефакторинг компонента выбора языка, добавление " />
+      <item value="Рефакторинг компонента выбора языка, добавление" />
+      <item value="Рефакторинг компонента выбора языка, до" />
+      <item value="Рефакторинг компонента выбора языка, " />
+      <item value="Рефакторинг компонента выбора языка" />
+      <item value="Рефакторинг компонента выбора " />
+      <item value="Рефакторинг компонента" />
+      <item value="Рефакторинг " />
+      <item value="ФИО" />
+      <item value="AB" />
+      <item value="перед" />
+      <item value="пере" />
+      <item value="ред" />
+      <item value="единичные числа&#10;" />
+      <item value="единичные числа" />
+      <item value="jlbybxyst" />
       <item value="Горизонтально" />
       <item value="Гориз" />
       <item value="Горизона" />
@@ -21,40 +55,6 @@
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала" />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение йункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение qункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение ункционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучн" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторитьь" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно п" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно пеерписать з" />
-      <item value="NgRX  импплементирвать неправильно. Всю сторунужно пеерписать з" />
-      <item value="NgRX  импплементирвать неправильно. Всю сторунужно пеерписать " />
-      <item value="NgRX  импплементирвать неправильно. Всю стору" />
-      <item value="NgRX  импплементирвать неправильно. Всю " />
-      <item value="NgRX  импплементирвать неправильно. " />
-      <item value="NgRX  импплементирвать неправильно." />
-      <item value="NgRX  импплементирвать неправильно" />
-      <item value="NgRX  импплементирва неправильно" />
-      <item value="NgRX   неправильно" />
-      <item value="NgRX  написан неправильно" />
-      <item value="NgRX  написан " />
-      <item value="NgRX  " />
-      <item value="NgRX " />
-      <item value="NgRX" />
-      <item value="Ng" />
-      <item value="N" />
-      <item value="NGrx" />
-      <item value="NG" />
-      <item value="ТпКЧ" />
-      <item value="Тп" />
-      <item value="Ы" />
-      <item value="И" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615814173006" />
+    <option name="lastTrimTime" value="1617300908950" />
   </component>
 </application>
