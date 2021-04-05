@@ -2731,6 +2731,11 @@
                       <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
+                  <entry key="#com.sylvanaar.idea.Lua.run.LuaConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Lua Script" pluginName="Lua" pluginId="Lua" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
@@ -3164,6 +3169,11 @@
                   <entry key="AspectJ">
                     <value>
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
+                  <entry key="Lua">
+                    <value>
+                      <FeaturePluginData displayName="Lua" pluginName="Lua" pluginId="Lua" />
                     </value>
                   </entry>
                   <entry key="NBMindMap">
