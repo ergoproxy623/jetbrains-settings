@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1530" />
-    <option name="newTranslationDialogX" value="62" />
-    <option name="newTranslationDialogY" value="310" />
+    <option name="newTranslationDialogWidth" value="1364" />
+    <option name="newTranslationDialogX" value="1761" />
+    <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="Hungary" />
       <item value="Decline" />
       <item value="принять" />
       <item value="инят" />
@@ -54,7 +55,6 @@
       <item value="NgRX  импплементирвать неправильно.тору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
       <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение йункционала" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617300908950" />
+    <option name="lastTrimTime" value="1617865653223" />
   </component>
 </application>
