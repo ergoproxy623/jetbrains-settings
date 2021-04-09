@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1364" />
+    <option name="newTranslationDialogWidth" value="1362" />
     <option name="newTranslationDialogX" value="1761" />
     <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="Здесь" />
       <item value="кеш" />
       <item value="rti" />
       <item value="Hungary" />
@@ -54,7 +55,6 @@
       <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. " />
       <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
       <item value="NgRX  импплементирвать неправильно. тору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
-      <item value="NgRX  импплементирвать неправильно.тору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
     </histories>
     <option name="languageScores">
       <map>
