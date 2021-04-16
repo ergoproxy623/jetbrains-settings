@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1360" />
-    <option name="newTranslationDialogX" value="1761" />
-    <option name="newTranslationDialogY" value="301" />
+    <option name="newTranslationDialogWidth" value="1358" />
+    <option name="newTranslationDialogX" value="1498" />
+    <option name="newTranslationDialogY" value="138" />
     <histories>
+      <item value="Если не этот то спрашивай " />
+      <item value="Если не этот то спра" />
+      <item value="Если не этот то " />
+      <item value="Если не этот " />
+      <item value="Если не этот" />
+      <item value="Если не " />
+      <item value="мы используем" />
+      <item value="9100000" />
+      <item value="Vs bcgjkmpetv" />
+      <item value="Vs bcg" />
       <item value="пофиксил и залил не тест, нужно задеплоить в прод и проверить." />
       <item value="пофиксил и залил не тест, нужно задеплоить в прод и проверить" />
       <item value="пофиксил и залил не тест, нужно задеплоить в прод " />
@@ -45,16 +55,6 @@
       <item value="Рефакторинг компонента выбора языка, добавление" />
       <item value="Рефакторинг компонента выбора языка, до" />
       <item value="Рефакторинг компонента выбора языка, " />
-      <item value="Рефакторинг компонента выбора языка" />
-      <item value="Рефакторинг компонента выбора " />
-      <item value="Рефакторинг компонента" />
-      <item value="Рефакторинг " />
-      <item value="ФИО" />
-      <item value="AB" />
-      <item value="перед" />
-      <item value="пере" />
-      <item value="ред" />
-      <item value="единичные числа&#10;" />
     </histories>
     <option name="languageScores">
       <map>
