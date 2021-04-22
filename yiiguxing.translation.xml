@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1336" />
+    <option name="newTranslationDialogWidth" value="1334" />
     <option name="newTranslationDialogX" value="1946" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="справка ФСН" />
+      <item value="cghfdrf ACY" />
+      <item value="cghfdrf " />
       <item value="рефакторинг" />
       <item value="рейакторинг" />
       <item value="ре" />
@@ -52,9 +55,6 @@
       <item value="Хардкода на UI не обнаружено. Заменил  " />
       <item value="Хардкода на UI не обнаружено. Заменил " />
       <item value="Хардкода на UI не обнаружено.  " />
-      <item value="Хардкода на UI не обнаружено " />
-      <item value="Хардкода на UI не обнаружено" />
-      <item value="Хардкода на UI yt j,yfhe;tyj" />
     </histories>
     <option name="languageScores">
       <map>
