@@ -1,8 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1334" />
+    <option name="newTranslationDialogWidth" value="1332" />
+    <option name="newTranslationDialogX" value="1952" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="deployed" />
+      <item value="вуздщнув" />
+      <item value="zeplopina" />
+      <item value="задеплоина" />
+      <item value="задепло" />
+      <item value="задеплоиная" />
+      <item value="задеплоинная" />
+      <item value="pfltgkjbyyfz" />
+      <item value="pflt" />
+      <item value="вуздщну" />
       <item value="рефакторинг" />
       <item value="рефакторин" />
       <item value="р" />
@@ -43,16 +55,6 @@
       <item value="сфдд" />
       <item value="callin" />
       <item value="called" />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надежный и удобный метод " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надежный и удоб метод " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надежный метод " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более наджный метод " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надженый метод " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надженый мето " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надженый  " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более надже " />
-      <item value="Хардкода на UI не обнаружено. Заменил на более на " />
-      <item value="Хардкода на UI не обнаружено. Заменил  " />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619700391386" />
+    <option name="lastTrimTime" value="1620215567600" />
   </component>
 </application>
