@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1328" />
+    <option name="newTranslationDialogWidth" value="1326" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
       <item value="месяц" />
       <item value="мес" />
