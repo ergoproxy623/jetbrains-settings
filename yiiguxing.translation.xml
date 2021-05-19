@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1322" />
-    <option name="newTranslationDialogX" value="1614" />
-    <option name="newTranslationDialogY" value="352" />
+    <option name="newTranslationDialogWidth" value="1316" />
+    <option name="newTranslationDialogX" value="1964" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="текущем" />
+      <item value="ntreot" />
+      <item value="ntreotv" />
+      <item value="ntre" />
+      <item value="а ты" />
+      <item value="а " />
+      <item value="а ТЫ" />
+      <item value="в основном" />
+      <item value="перимущественно" />
+      <item value="пер" />
       <item value="Нужно ли дисейблить кнопку если успешно добавленно" />
       <item value="Нужно ли дисейблить кнопку если успешно до" />
       <item value="Нужно ли дисейблить кнопку если успешно " />
@@ -45,21 +55,11 @@
       <item value="Данные со" />
       <item value="Данные " />
       <item value="Lfyyst" />
-      <item value="После рефакторинга типизации" />
-      <item value="После рефакторинга типпизации" />
-      <item value="После рефакторинга " />
-      <item value="После рефакторинга nbgbpfwbb" />
-      <item value="После рефакторинга тпизации" />
-      <item value="После рефакторинга тпи" />
-      <item value="После " />
-      <item value="deployed" />
-      <item value="вуздщнув" />
-      <item value="zeplopina" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="RUSSIAN" value="15" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
