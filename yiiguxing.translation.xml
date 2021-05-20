@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1316" />
+    <option name="newTranslationDialogWidth" value="1314" />
     <option name="newTranslationDialogX" value="1964" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Ez az áruház nem létezik." />
       <item value="текущем" />
       <item value="ntreot" />
       <item value="ntreotv" />
@@ -54,12 +55,11 @@
       <item value="Данные сох" />
       <item value="Данные со" />
       <item value="Данные " />
-      <item value="Lfyyst" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="RUSSIAN" value="16" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
