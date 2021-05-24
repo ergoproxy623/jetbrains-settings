@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1312" />
-    <option name="newTranslationDialogX" value="1964" />
+    <option name="newTranslationDialogWidth" value="1310" />
+    <option name="newTranslationDialogX" value="1974" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Don't mention it!!!!" />
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI то нужно редиректить запрос дял пользователя на другой ендпоинт" />
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf lheujq tylgjbyn" />
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf lheujq tylgj" />
@@ -54,12 +55,11 @@
       <item value="Сдела что бы данные сохранялись временно до перехода на другой шаг. Когда будет переход то тогда сохраниться на бекенде. Если F " />
       <item value="Сдела что бы данные сохранялись временно до перехода на другой шаг. Когда будет переход то тогда сохраниться на бекенде. Если  " />
       <item value="Сдела что бы данные сохранялись временно до перехода на другой шаг. Когда будет переход то тогда сохраниться на бекенде.  " />
-      <item value="Сдела что бы данные сохранялись временно до перехода на другой шаг. Когда будет переход то тогда сохраниться на бекенде " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="16" />
+        <entry key="RUSSIAN" value="17" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
