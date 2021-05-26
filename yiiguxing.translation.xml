@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1308" />
-    <option name="newTranslationDialogX" value="386" />
-    <option name="newTranslationDialogY" value="538" />
+    <option name="newTranslationDialogWidth" value="1306" />
+    <option name="newTranslationDialogX" value="1569" />
+    <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Декомпонизация интерфейсов" />
+      <item value="Декомпонизация " />
+      <item value="Декомпони" />
       <item value="enlarge" />
       <item value="enla" />
       <item value="en" />
@@ -52,9 +55,6 @@
       <item value="Нужно ли дисейблить кнопку если успешно до" />
       <item value="Нужно ли дисейблить кнопку если успешно " />
       <item value="Нужно ли дисейблить кнопку если успешно создано и " />
-      <item value="Нужно ли дисейблить кнопку если успешно создано" />
-      <item value="Нужно ли дисе" />
-      <item value="Нужно ли " />
     </histories>
     <option name="languageScores">
       <map>
