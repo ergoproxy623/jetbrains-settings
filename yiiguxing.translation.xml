@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1306" />
+    <option name="newTranslationDialogWidth" value="1300" />
     <option name="newTranslationDialogX" value="1569" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Have just contacted Artur BE and he said he only added endpoints but no business logic to work with them, thus Artur Holianyk won't be able go any further without high chance of breaking it" />
+      <item value="простой фикс тетсов" />
+      <item value="простой фикс " />
+      <item value="простой " />
+      <item value="прост" />
+      <item value="простот" />
+      <item value="simple" />
+      <item value="quic" />
+      <item value="quick" />
+      <item value="быстрый" />
       <item value="Декомпонизация интерфейсов" />
       <item value="Декомпонизация " />
       <item value="Декомпони" />
@@ -45,21 +55,11 @@
       <item value="ntreot" />
       <item value="ntreotv" />
       <item value="ntre" />
-      <item value="а ты" />
-      <item value="а " />
-      <item value="а ТЫ" />
-      <item value="в основном" />
-      <item value="перимущественно" />
-      <item value="пер" />
-      <item value="Нужно ли дисейблить кнопку если успешно добавленно" />
-      <item value="Нужно ли дисейблить кнопку если успешно до" />
-      <item value="Нужно ли дисейблить кнопку если успешно " />
-      <item value="Нужно ли дисейблить кнопку если успешно создано и " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="RUSSIAN" value="17" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="20" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
