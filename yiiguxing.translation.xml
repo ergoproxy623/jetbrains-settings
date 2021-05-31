@@ -1,10 +1,28 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1300" />
-    <option name="newTranslationDialogX" value="1569" />
-    <option name="newTranslationDialogY" value="425" />
+    <option name="newTranslationDialogWidth" value="1294" />
+    <option name="newTranslationDialogX" value="1986" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="The user does not need and does not need to be logged in. He already has the ability to work with a radar." />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. Он и так имеет возможность работать с радаром." />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. н и так имеет возможность работать с радаром." />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин и так имеет возможность работать с радаром." />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин и так имеет во" />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин " />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым. " />
+      <item value="Пользователю не нужно и не обязательно быть залогиненым" />
+      <item value="Пользователю не нужно и не обязательно быть залгиненым" />
+      <item value="Позователю не нужно и не обязательно быть залгиненым" />
+      <item value="Поkmзователю не нужно и не обязательно быть залгиненым" />
+      <item value="Поkзователю не нужно и не обязательно быть залгиненым" />
+      <item value="Потзователю не нужно и не обязательно быть залгиненым" />
+      <item value="Gjnpjdfntk. yt ye;yj b yt j,zpfntkmyj ,snm pfkubytysv" />
+      <item value="Gjnpjdfntk. yt ye;yj b yt j,zpfntkmyj ,snm " />
+      <item value="Gjn" />
+      <item value="foglalat" />
+      <item value="Memóriakárty" />
       <item value="Have just contacted Artur BE and he said he only added endpoints but no business logic to work with them, thus Artur Holianyk won't be able go any further without high chance of breaking it" />
       <item value="простой фикс тетсов" />
       <item value="простой фикс " />
@@ -37,35 +55,17 @@
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf " />
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfnt" />
       <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfn" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkm" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc " />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm " />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI " />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI" />
-      <item value="Если с калькуляции в поле контракт пришло поле telia" />
-      <item value="Если с калькуляции в поле контракт пришло поле " />
-      <item value="Если с калькуляции в поле контракт при" />
-      <item value="Если с калькуляции в поле " />
-      <item value="Если с калькуляции " />
-      <item value="Если с калькуляции" />
-      <item value="Если с " />
-      <item value="Если в " />
-      <item value="Ez az áruház nem létezik." />
-      <item value="текущем" />
-      <item value="ntreot" />
-      <item value="ntreotv" />
-      <item value="ntre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="RUSSIAN" value="20" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="RUSSIAN" value="24" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621775293140" />
+    <option name="lastTrimTime" value="1622448524588" />
   </component>
 </application>
