@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1292" />
-    <option name="newTranslationDialogX" value="1986" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1286" />
+    <option name="newTranslationDialogX" value="1703" />
+    <option name="newTranslationDialogY" value="352" />
     <histories>
+      <item value="Хорошо, понял" />
+      <item value="{jhjij? gjyzk" />
+      <item value="коды не существуют в " />
+      <item value="коды не существую" />
+      <item value="коды " />
+      <item value="коды пропали" />
+      <item value="ghjgfkb" />
+      <item value="Может причина в этом" />
+      <item value="Vj;tn" />
+      <item value="article number from stock file.csv and ID form MMSE_wls.csv  is the same field?" />
       <item value="неправильные данные с бекенда" />
       <item value="неправильные данные с " />
       <item value="неправильн" />
@@ -45,21 +55,11 @@
       <item value="en" />
       <item value="Очистка" />
       <item value="Очис" />
-      <item value="Clare" />
-      <item value="Clat" />
-      <item value="Сдфку" />
-      <item value="Техническая" />
-      <item value="Тех" />
-      <item value="Те" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI то нужно редиректить запрос дял пользователя на другой ендпоинт" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf lheujq tylgjbyn" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf lheujq tylgj" />
-      <item value="Если с калькуляции в поле контракт пришло поле teliaAPI nj ye;yj htlbhtrnbnm pfghjc lzk gjkmpjdfntkz yf lheujq tyl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
-        <entry key="RUSSIAN" value="24" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="RUSSIAN" value="28" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
