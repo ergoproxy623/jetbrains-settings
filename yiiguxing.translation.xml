@@ -1,10 +1,29 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1286" />
+    <option name="newTranslationDialogWidth" value="1282" />
     <option name="newTranslationDialogX" value="1703" />
     <option name="newTranslationDialogY" value="352" />
     <histories>
+      <item value="Доброе утро. Будет сделано" />
+      <item value="Good morning. Will be done" />
+      <item value="Доброе утро. Будет сделанно" />
+      <item value="Доброе утро. Будет сдела" />
+      <item value="Доброе утро. " />
+      <item value="Доброе " />
+      <item value="Доброе туро" />
+      <item value="Доброе утро. Заполню" />
+      <item value="Доброе утро. ЗАполню" />
+      <item value="Доброе утро. ЗАполн" />
+      <item value="Доброе утро. Сделаю" />
+      <item value="Доброе утро. Сд" />
+      <item value="Доброе утро. Сдл" />
+      <item value="Доброе утро. Сдлеаю" />
+      <item value="Доброе утро" />
+      <item value="Л" />
+      <item value="Добю" />
+      <item value="Д" />
+      <item value="o" />
       <item value="Хорошо, понял" />
       <item value="{jhjij? gjyzk" />
       <item value="коды не существуют в " />
@@ -36,30 +55,11 @@
       <item value="Gjnpjdfntk. yt ye;yj b yt j,zpfntkmyj ,snm " />
       <item value="Gjn" />
       <item value="foglalat" />
-      <item value="Memóriakárty" />
-      <item value="Have just contacted Artur BE and he said he only added endpoints but no business logic to work with them, thus Artur Holianyk won't be able go any further without high chance of breaking it" />
-      <item value="простой фикс тетсов" />
-      <item value="простой фикс " />
-      <item value="простой " />
-      <item value="прост" />
-      <item value="простот" />
-      <item value="simple" />
-      <item value="quic" />
-      <item value="quick" />
-      <item value="быстрый" />
-      <item value="Декомпонизация интерфейсов" />
-      <item value="Декомпонизация " />
-      <item value="Декомпони" />
-      <item value="enlarge" />
-      <item value="enla" />
-      <item value="en" />
-      <item value="Очистка" />
-      <item value="Очис" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="28" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="RUSSIAN" value="33" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
