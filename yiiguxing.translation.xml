@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1280" />
-    <option name="newTranslationDialogX" value="1703" />
-    <option name="newTranslationDialogY" value="352" />
+    <option name="newTranslationDialogWidth" value="1278" />
+    <option name="newTranslationDialogX" value="2006" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Сохранить автоматически" />
+      <item value="Сохранить авто" />
+      <item value="Сохранить автом" />
+      <item value="Сохранить подобранную" />
+      <item value="Cj[jfybnm gjlj,hfyye." />
       <item value="Выбранный и фактический часовые пояса не совпадают! Сохранить выбранный?" />
       <item value="Выбранный и фактический часовые пояса не совпадают! Сохранить выбранный" />
       <item value="Выбранный и фактический часовые пояса не совпадают! Со" />
@@ -50,16 +55,11 @@
       <item value="неправильные данные с бекенда" />
       <item value="неправильные данные с " />
       <item value="неправильн" />
-      <item value="неправиль" />
-      <item value="The user does not need and does not need to be logged in. He already has the ability to work with a radar." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. Он и так имеет возможность работать с радаром." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. н и так имеет возможность работать с радаром." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин и так имеет возможность работать с радаром." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="28" />
-        <entry key="RUSSIAN" value="34" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="RUSSIAN" value="35" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
