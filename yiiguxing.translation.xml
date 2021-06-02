@@ -1,10 +1,44 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1286" />
-    <option name="newTranslationDialogX" value="1703" />
+    <option name="newTranslationDialogWidth" value="1282" />
+    <option name="newTranslationDialogX" value="634" />
     <option name="newTranslationDialogY" value="352" />
     <histories>
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. Ищу далее" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. И" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. " />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились." />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. Есть предположение" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. Есть предполо" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. Есть пред" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились. Есть пре" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появились" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появили" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не появилис" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. Девайсы не поя" />
+      <item value="Согласен, я делал перезапуск джобов несколько раз. " />
+      <item value="Согласен, я делал перезапуск  несколько раз. " />
+      <item value="Согласен, я делал перезапуск несколько раз. " />
+      <item value="Согласен, я делал перезапуск несколько раз " />
+      <item value="Согласен, я делал перезапуск не " />
+      <item value="Согласен, я делал перезапуск  " />
+      <item value="Согласен, я делал  " />
+      <item value="Согласен, я де " />
+      <item value="Согласен, я деалл " />
+      <item value="Согласен, я  " />
+      <item value="Согласен,  " />
+      <item value="Согласен, " />
+      <item value="Соглсен, " />
+      <item value="Соглсен" />
+      <item value="Сол" />
+      <item value="Солг" />
+      <item value="But it doesn't find the other ones eiteh" />
+      <item value="under" />
+      <item value="u" />
+      <item value="гтвук" />
+      <item value="ubder" />
+      <item value="ub" />
       <item value="Хорошо, понял" />
       <item value="{jhjij? gjyzk" />
       <item value="коды не существуют в " />
@@ -21,45 +55,11 @@
       <item value="неправиль" />
       <item value="The user does not need and does not need to be logged in. He already has the ability to work with a radar." />
       <item value="Пользователю не нужно и не обязательно быть залогиненым. Он и так имеет возможность работать с радаром." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. н и так имеет возможность работать с радаром." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин и так имеет возможность работать с радаром." />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин и так имеет во" />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. Ин " />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым. " />
-      <item value="Пользователю не нужно и не обязательно быть залогиненым" />
-      <item value="Пользователю не нужно и не обязательно быть залгиненым" />
-      <item value="Позователю не нужно и не обязательно быть залгиненым" />
-      <item value="Поkmзователю не нужно и не обязательно быть залгиненым" />
-      <item value="Поkзователю не нужно и не обязательно быть залгиненым" />
-      <item value="Потзователю не нужно и не обязательно быть залгиненым" />
-      <item value="Gjnpjdfntk. yt ye;yj b yt j,zpfntkmyj ,snm pfkubytysv" />
-      <item value="Gjnpjdfntk. yt ye;yj b yt j,zpfntkmyj ,snm " />
-      <item value="Gjn" />
-      <item value="foglalat" />
-      <item value="Memóriakárty" />
-      <item value="Have just contacted Artur BE and he said he only added endpoints but no business logic to work with them, thus Artur Holianyk won't be able go any further without high chance of breaking it" />
-      <item value="простой фикс тетсов" />
-      <item value="простой фикс " />
-      <item value="простой " />
-      <item value="прост" />
-      <item value="простот" />
-      <item value="simple" />
-      <item value="quic" />
-      <item value="quick" />
-      <item value="быстрый" />
-      <item value="Декомпонизация интерфейсов" />
-      <item value="Декомпонизация " />
-      <item value="Декомпони" />
-      <item value="enlarge" />
-      <item value="enla" />
-      <item value="en" />
-      <item value="Очистка" />
-      <item value="Очис" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="22" />
-        <entry key="RUSSIAN" value="28" />
+        <entry key="ENGLISH" value="23" />
+        <entry key="RUSSIAN" value="30" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
