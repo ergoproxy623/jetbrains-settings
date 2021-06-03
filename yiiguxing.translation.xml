@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1276" />
-    <option name="newTranslationDialogX" value="1878" />
-    <option name="newTranslationDialogY" value="538" />
+    <option name="newTranslationDialogWidth" value="1274" />
+    <option name="newTranslationDialogX" value="1755" />
+    <option name="newTranslationDialogY" value="301" />
     <histories>
+      <item value="для меня нормально" />
+      <item value="нормально" />
+      <item value="yjhvfkmyj" />
       <item value="Все понятно. Сейчас в приоритете это новый таймпикер. Дизайн в прогрессе. Сейчас делаю https://devspire.atlassian.net/browse/HJB-796" />
       <item value="Все понятно. Сейчас в приоритете это новый таймпикер. Дизайн в прогрессе. Сейчас делаю " />
       <item value="Все понятно. Сейчас в приоритете это новый таймпикер. Дизайн в прогрессе. Сейчас делаю" />
@@ -52,14 +55,11 @@
       <item value="Доброе туро" />
       <item value="Доброе утро. Заполню" />
       <item value="Доброе утро. ЗАполню" />
-      <item value="Доброе утро. ЗАполн" />
-      <item value="Доброе утро. Сделаю" />
-      <item value="Доброе утро. Сд" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="29" />
-        <entry key="RUSSIAN" value="35" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="RUSSIAN" value="36" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
