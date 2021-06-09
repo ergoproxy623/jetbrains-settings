@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1266" />
-    <option name="newTranslationDialogX" value="1504" />
-    <option name="newTranslationDialogY" value="212" />
+    <option name="newTranslationDialogWidth" value="1264" />
+    <option name="newTranslationDialogX" value="2020" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="825 готовая. Идет деплой, и спасибо. Делаю" />
+      <item value="825 готовая. Идет деплой, и спасибо. " />
+      <item value="825 готовая. Идет деплой, и спасибо. Работаю" />
+      <item value="825 готовая. Идет деплой, и спасибо" />
+      <item value="825 готовая. Идет деплой, и спаси" />
+      <item value="825 готовая. Идет деплой, " />
+      <item value="825 готовая. Идет деплой" />
+      <item value="825 готовая. Идет " />
+      <item value="825 готовая. " />
+      <item value="825 " />
       <item value="Я  не имею  адреса SSH и доступа к продакшену" />
       <item value="Я  не имею  адреса SSH и доступа к продакше" />
       <item value="Я  не имею  адреса SSH и доступа к " />
@@ -45,21 +55,11 @@
       <item value="технически можно разместить " />
       <item value="технически можно раз" />
       <item value="технически можно " />
-      <item value="технически " />
-      <item value="хнически" />
-      <item value="Nt[ybxtcrb" />
-      <item value="Nt[" />
-      <item value="Сделал исследование. Переассайню на Олега, бекенд часть" />
-      <item value="Сделал исследование. Переассаню на Олега, бекенд часть" />
-      <item value="Сделал исследование. Переассааню на Олега, бекенд часть" />
-      <item value="Сделал исследование. Переассаан на Олега, бекенд часть" />
-      <item value="Сделал исследование. Переассаа на Олега, бекенд часть" />
-      <item value="Сделал исследование. Переасса на Олега, бекенд часть" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="RUSSIAN" value="37" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="RUSSIAN" value="38" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
