@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1262" />
+    <option name="newTranslationDialogWidth" value="1260" />
     <option name="newTranslationDialogX" value="1604" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="реквест" />
+      <item value="запрос" />
+      <item value="pfghjc" />
       <item value="Если пользователь ввел в качестве разделителя запятую то она заменяеться на точку. Разделителя тисяч нету теперь" />
       <item value="Если пользователь ввел в качестве разделителя запятую то она заменяеться на точку. Разделителя тисяч нету " />
       <item value="Если пользователь ввел в качестве разделителя запятую то она заменяеться на точку. Разделителя тисяч нету" />
@@ -52,14 +55,11 @@
       <item value="Я  не получил ни адреса SSH" />
       <item value="Я  не получил ни адреса " />
       <item value="Я так и не получил ни адреса " />
-      <item value="Я так и не получил ни ад" />
-      <item value="Я так и не получил ни " />
-      <item value="Я так и не получил ни flhtccf ыыр " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
-        <entry key="RUSSIAN" value="38" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="RUSSIAN" value="39" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
