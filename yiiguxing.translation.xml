@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1258" />
+    <option name="newTranslationDialogWidth" value="1256" />
     <option name="newTranslationDialogX" value="1604" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="пожалуйста посмотри" />
+      <item value="пож" />
+      <item value="по" />
       <item value="До этого мы не выводили эти поля сюда. Проверил трижды по коду и Git blame" />
       <item value="До этого мы не выводили эти поля сюда. Проверил три по коду и Git blame" />
       <item value="До этого мы не выводили эти поля сюда. Проверил  по коду и Git blame" />
@@ -52,9 +55,6 @@
       <item value="Если пользователь ввел в качестве " />
       <item value="Если пользователь ввел " />
       <item value="Если пользователь " />
-      <item value="Если пользователь" />
-      <item value="Если поль" />
-      <item value="825 готовая. Идет деплой, и спасибо. Делаю" />
     </histories>
     <option name="languageScores">
       <map>
