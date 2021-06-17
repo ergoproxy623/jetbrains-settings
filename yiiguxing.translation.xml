@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1240" />
-    <option name="newTranslationDialogX" value="2038" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1238" />
+    <option name="newTranslationDialogX" value="2018" />
+    <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="Tenth Fifth" />
+      <item value="Tenth " />
+      <item value="Tenth" />
+      <item value="Te" />
+      <item value="Десятый" />
+      <item value="Де" />
+      <item value="Дея" />
+      <item value="Ltz" />
+      <item value="Lt" />
       <item value="s there anything stopping you artur from finishing?" />
       <item value="На тестовый сервер. 5 минут назад" />
       <item value="На тестовый сервер. % минут назад" />
@@ -46,20 +55,11 @@
       <item value="Заменил " />
       <item value="Заменил" />
       <item value="Abbrechen" />
-      <item value="A" />
-      <item value="Венгрия" />
-      <item value="Dtyuhbz" />
-      <item value="Dt" />
-      <item value="blanck" />
-      <item value="b" />
-      <item value="banck" />
-      <item value="идфтс" />
-      <item value="идфтсл" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="37" />
-        <entry key="RUSSIAN" value="46" />
+        <entry key="ENGLISH" value="38" />
+        <entry key="RUSSIAN" value="48" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
