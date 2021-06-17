@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1242" />
+    <option name="newTranslationDialogWidth" value="1240" />
     <option name="newTranslationDialogX" value="2038" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="s there anything stopping you artur from finishing?" />
       <item value="На тестовый сервер. 5 минут назад" />
       <item value="На тестовый сервер. % минут назад" />
       <item value="На тестовый сервер. % минут на" />
@@ -54,12 +55,11 @@
       <item value="banck" />
       <item value="идфтс" />
       <item value="идфтсл" />
-      <item value="идф" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="37" />
-        <entry key="RUSSIAN" value="45" />
+        <entry key="RUSSIAN" value="46" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
