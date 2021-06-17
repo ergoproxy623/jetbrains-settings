@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1248" />
-    <option name="newTranslationDialogX" value="1496" />
-    <option name="newTranslationDialogY" value="361" />
+    <option name="newTranslationDialogWidth" value="1246" />
+    <option name="newTranslationDialogX" value="2038" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Abbrechen" />
+      <item value="A" />
       <item value="Венгрия" />
       <item value="Dtyuhbz" />
       <item value="Dt" />
@@ -53,13 +55,11 @@
       <item value="Повторюсь. " />
       <item value="Повторюсь." />
       <item value="Повторюсь" />
-      <item value="Поворюсь" />
-      <item value="Пворюсь" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="36" />
-        <entry key="RUSSIAN" value="43" />
+        <entry key="RUSSIAN" value="44" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
