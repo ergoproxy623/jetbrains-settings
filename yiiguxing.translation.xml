@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1232" />
+    <option name="newTranslationDialogWidth" value="1230" />
     <option name="newTranslationDialogX" value="2018" />
     <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="Как есть" />
+      <item value="Как " />
       <item value="Suchen" />
       <item value="Hi Artur! hope you are doing well!&#10;I have completed my tasks and now I want to push my changes, but when I'm trying to commit my changes on hjb-web-client, the husky pre-commit npm returns errors....maybe you know how to resolve this?&#10;thanks!" />
       <item value="Tenth Fifth" />
@@ -53,8 +55,6 @@
       <item value="Заменил на чекбокс. Один момент, когда " />
       <item value="Заменил на чекбокс. Один момент" />
       <item value="Заменил на чекбокс. " />
-      <item value="Заменил на " />
-      <item value="Заменил " />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623675726248" />
+    <option name="lastTrimTime" value="1624344577894" />
   </component>
 </application>
