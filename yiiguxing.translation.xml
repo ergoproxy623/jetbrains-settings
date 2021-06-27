@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1224" />
-    <option name="newTranslationDialogX" value="2060" />
+    <option name="newTranslationDialogWidth" value="1222" />
+    <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Ihre anmeldeinformationen sind veraltet" />
       <item value="Легальная информация" />
       <item value="Lakcim adatok" />
       <item value="Személyes adatok" />
@@ -54,7 +55,6 @@
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая " />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключа" />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики до" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики " />
     </histories>
     <option name="languageScores">
       <map>
