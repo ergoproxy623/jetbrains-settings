@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1222" />
+    <option name="newTranslationDialogWidth" value="1220" />
     <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Aktiv" />
       <item value="Ihre anmeldeinformationen sind veraltet" />
       <item value="Легальная информация" />
       <item value="Lakcim adatok" />
@@ -54,18 +55,17 @@
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стар" />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая " />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключа" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики до" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="40" />
-        <entry key="RUSSIAN" value="53" />
+        <entry key="RUSSIAN" value="54" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624344577894" />
+    <option name="lastTrimTime" value="1624874536741" />
   </component>
 </application>
