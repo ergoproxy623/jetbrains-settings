@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1224" />
-    <option name="newTranslationDialogX" value="2060" />
+    <option name="newTranslationDialogWidth" value="1214" />
+    <option name="newTranslationDialogX" value="696" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Vorname fehlt" />
+      <item value="верно" />
+      <item value="верно? Не" />
+      <item value="верно? " />
+      <item value="верно?" />
+      <item value="верн" />
+      <item value="Job &amp;lt" />
+      <item value="Thought so, im just intentionally overcommunicating, bare with me the next days" />
+      <item value="Aktiv" />
+      <item value="Ihre anmeldeinformationen sind veraltet" />
       <item value="Легальная информация" />
       <item value="Lakcim adatok" />
       <item value="Személyes adatok" />
@@ -45,27 +55,17 @@
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно будет обновить это на UI, " />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует обновить это на UI, " />
       <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует обновить это на UI, ли " />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует обновить это на UI" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует обновить это на " />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует обновить это на ГШ" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову нужно бует " />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стархову " />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая стар" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключая " />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики добавят поле калькуляции исключа" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики до" />
-      <item value="Заменил на чекбокс. Один момент, когда бекенд разработчики " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="40" />
-        <entry key="RUSSIAN" value="53" />
+        <entry key="RUSSIAN" value="55" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624344577894" />
+    <option name="lastTrimTime" value="1624874536741" />
   </component>
 </application>
