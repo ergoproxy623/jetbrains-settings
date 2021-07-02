@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1136" />
-    <option name="newTranslationDialogX" value="2076" />
+    <option name="newTranslationDialogWidth" value="1132" />
+    <option name="newTranslationDialogX" value="2150" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Es muss mindestens ein Zeitbereich für Aktivitäten ausgewählt werden" />
+      <item value="Шаг невалидный" />
+      <item value="Ifu" />
+      <item value="Wöchentliche Stunden" />
       <item value="очистить" />
       <item value="очистит" />
       <item value="jxbcnbn" />
@@ -51,15 +55,12 @@
       <item value="Нужно что бы бек енд делал калькуляци" />
       <item value="Нужно что бы бек енд " />
       <item value="Нужно что бы бек ен" />
-      <item value="Нужно что бы бек е" />
-      <item value="Нужно что бы " />
-      <item value="Нужно что бы API ltkfk rfkmrekzwb. b ghbcskd" />
-      <item value="Нужно что бы API " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="43" />
-        <entry key="RUSSIAN" value="59" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="62" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
