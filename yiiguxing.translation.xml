@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1128" />
-    <option name="newTranslationDialogX" value="2156" />
+    <option name="newTranslationDialogWidth" value="1126" />
+    <option name="newTranslationDialogX" value="792" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="юнит тесты" />
+      <item value="ю" />
+      <item value=".yyb" />
       <item value="Я удалил лейбл. Его добавляли по 905 но непарвильно понял задание. Нам нужно только подсвечивать поле рабочик часов валидацией" />
       <item value="Я удалил лейбл. Его добавляли по 905 но непарвильно понял задание. Нам Нужно только подсвечивать поле рабочик часов валидацией" />
       <item value="Я удалил лейбл. Его добавляли по 905 но непарвильно понял задание.  Нужно только подсвечивать поле рабочик часов валидацией" />
@@ -52,9 +55,6 @@
       <item value="Лейбл был добавлен по требованию в  тикете 905. " />
       <item value="Лейбл был добавлен по требованию в  тикете 905" />
       <item value="Лейбл был добавлен по требованию в  тикете " />
-      <item value="Лейбл был добавлен по требованию в  " />
-      <item value="Лейбл был добавлен по требованию " />
-      <item value="Лейбл был добавлен по требовани" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624874536741" />
+    <option name="lastTrimTime" value="1625515860629" />
   </component>
 </application>
