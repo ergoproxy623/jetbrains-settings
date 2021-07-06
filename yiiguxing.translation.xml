@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
     <option name="newTranslationDialogWidth" value="1124" />
-    <option name="newTranslationDialogX" value="794" />
+    <option name="newTranslationDialogX" value="1728" />
     <option name="newTranslationDialogY" value="381" />
     <histories>
-      <item value="описании" />
+      <item value="Дизайн не предусматривает окрашивание линии" />
+      <item value="Дизайн не предусматривает окрашивание " />
+      <item value="Дизайн не предусматривает окра" />
+      <item value="Дизайн " />
+      <item value="Д" />
+      <item value="ДИзайн" />
       <item value="Старая задача. В некоторых местах изменения опережаються на один-два изменения" />
       <item value="Старая задача. В некоторых местах изменения опережаються на один- два изменения" />
       <item value="Старая задача. В некоторых местах изменения опережаються на  два изменения" />
@@ -50,11 +55,6 @@
       <item value="Я удалил лейбл. Его добавляли по " />
       <item value="Я удалил лейбл. Его добавляли " />
       <item value="Я удалил лейбл. Его до" />
-      <item value="Я удалил лейбл. " />
-      <item value="Я удалил лейбл" />
-      <item value="Я уд" />
-      <item value="Я " />
-      <item value="I" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625587395521" />
+    <option name="lastTrimTime" value="1625471242577" />
   </component>
 </application>
