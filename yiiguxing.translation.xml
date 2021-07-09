@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1116" />
-    <option name="newTranslationDialogX" value="1728" />
-    <option name="newTranslationDialogY" value="381" />
+    <option name="newTranslationDialogWidth" value="1108" />
+    <option name="newTranslationDialogX" value="2172" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="mine" />
+      <item value="ьшту" />
+      <item value="beer" />
+      <item value="b" />
+      <item value="Развертывание пользовательского интерфейса администратора запланировано на 17:30+" />
+      <item value="Admin UI deploy scheduled on 17:30+" />
+      <item value="in this month I don’t see necessity to overtime,  and by urgent fixes (ASAP) we break other part, I had such experience yesterday, so plz don’t invite anybody until you sure it’s ready, (let’s avoid morning hotfixes)" />
       <item value="Когда ждать деплой?" />
       <item value="Когда ждать " />
       <item value="Когда ждать" />
@@ -48,19 +55,12 @@
       <item value="Related" />
       <item value="Rela" />
       <item value="Re" />
-      <item value="Кудфеув " />
-      <item value="Относитсья к " />
-      <item value="yjcbm" />
-      <item value="ТО" />
-      <item value="Дизайн не предусматривает окрашивание линии" />
-      <item value="Дизайн не предусматривает окрашивание " />
-      <item value="Дизайн не предусматривает окра" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="72" />
+        <entry key="RUSSIAN" value="77" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
