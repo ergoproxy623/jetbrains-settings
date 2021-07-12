@@ -1,10 +1,25 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1112" />
-    <option name="newTranslationDialogX" value="804" />
-    <option name="newTranslationDialogY" value="381" />
+    <option name="newTranslationDialogWidth" value="1108" />
+    <option name="newTranslationDialogX" value="1569" />
+    <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="нужно перетестировать" />
+      <item value="нужно пере" />
+      <item value="Ye" />
+      <item value="The task is done, but it was not deployed on the stage" />
+      <item value="Ye;yj gthtntcnbhjdfnm" />
+      <item value="Ye;yj gtht" />
+      <item value="Здача сделана, только не была задеплоена на stage" />
+      <item value="Здача сделана, только не была задеплоена на " />
+      <item value="Здача сделана, " />
+      <item value="Здача сдел" />
+      <item value="Здача сделла" />
+      <item value="Здача " />
+      <item value="Pflf" />
+      <item value="адресс" />
+      <item value="ресс" />
       <item value="Я добавил комментарий, кажись бек енд затирает временные данные. Посмотри видео" />
       <item value="Я добавил комментарий, кажись бек енд затирает временные данные. Посмотри ви" />
       <item value="Я добавил комментарий, кажись бек енд затирает временные данные. " />
@@ -40,33 +55,18 @@
       <item value="Когда ждать " />
       <item value="Когда ждать" />
       <item value="Когда " />
-      <item value="Доброе утро. Добавь пожалуйста в описание тикета какое поле использовать." />
-      <item value="Доброе утро. Добавь пожалуйста в описание тикета какое поле исполь." />
-      <item value="Доброе утро. Добавь пожалуйста в описание тикета какое поле используется." />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета какое поле используеться. " />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета какое поле используеться." />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета какое пол используеться." />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета какое поел используеться." />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета " />
-      <item value="Добрео утро. Добавь пожалуйста в  описание тикета" />
-      <item value="Добрео утро. Добавь пожалуйста  описание тикета" />
-      <item value="Добрео утро. Добавь  описание тикета" />
-      <item value="Добрео утро. Добавь описание тикета" />
-      <item value="Добрео утро. Добав описание тикета" />
-      <item value="Добрео утро. Добави описание тикета" />
-      <item value="Добрео утро. Добви описание тикета" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="57" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="72" />
+        <entry key="RUSSIAN" value="76" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625471242577" />
+    <option name="lastTrimTime" value="1626071305791" />
   </component>
 </application>
