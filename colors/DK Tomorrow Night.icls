@@ -104,13 +104,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
@@ -126,13 +126,13 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b9ca4a" />
       </value>
     </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c397d8" />
@@ -146,7 +146,7 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
     </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e04164" />
@@ -162,7 +162,7 @@
         <option name="FOREGROUND" value="74715e" />
       </value>
     </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e78c45" />
