@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1098" />
-    <option name="newTranslationDialogX" value="2182" />
+    <option name="newTranslationDialogWidth" value="1096" />
+    <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="should one type job mast be selected" />
       <item value="technical -&gt; great! they explicitly said, that HJB is superior to all websites and projects the have, they really like it&#10;UIUX -&gt; the have quite some points which they want to change" />
       <item value="we had just the &quot;feedback meeting from the stakeholder test&quot;" />
       <item value="text errors (content improvements) is always never-ending process, perfection is unreachable&#10;&#10;Robert Schmidt  2:00 PM&#10;ye, i dont care about text while developing&#10;2:00&#10;will have tomorrow a 4h session with Oxana to correct/change all texts&#10;&#10;Oleh Podolian  2:01 PM&#10;the are questioning like 20% of the fields if the are necessary -&gt; it’s quite negotiable, as data processing has been modifying&#10;2:02&#10;but dropping them all at once needs care and revisions&#10;&#10;Robert Schmidt  2:09 PM&#10;ye, dont worry, we will not change anything now&#10;&#10;Robert Schmidt  2:54 PM&#10;well...&#10; ye, dont worry, we will not change anything now&#10;was to fast :poop:" />
@@ -54,13 +55,12 @@
       <item value="Здача сделана, только не была задеплоена на " />
       <item value="Здача сделана, " />
       <item value="Здача сдел" />
-      <item value="Здача сделла" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="61" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="83" />
+        <entry key="RUSSIAN" value="84" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
