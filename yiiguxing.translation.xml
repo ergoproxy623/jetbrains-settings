@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1096" />
+    <option name="newTranslationDialogWidth" value="1094" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Pagination doesn't work in this list" />
       <item value="should one type job mast be selected" />
       <item value="technical -&gt; great! they explicitly said, that HJB is superior to all websites and projects the have, they really like it&#10;UIUX -&gt; the have quite some points which they want to change" />
       <item value="we had just the &quot;feedback meeting from the stakeholder test&quot;" />
@@ -54,13 +55,12 @@
       <item value="Здача сделана, только не была задеплоена на stage" />
       <item value="Здача сделана, только не была задеплоена на " />
       <item value="Здача сделана, " />
-      <item value="Здача сдел" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="61" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="84" />
+        <entry key="RUSSIAN" value="85" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
