@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1094" />
-    <option name="newTranslationDialogX" value="2186" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1092" />
+    <option name="newTranslationDialogX" value="2028" />
+    <option name="newTranslationDialogY" value="383" />
     <histories>
+      <item value="Поиск и замена query параметров на параметрв в теле запроса" />
+      <item value=" и замена query параметров на параметрв в теле запроса" />
+      <item value="Исследование и замена query параметров на параметрв в теле запроса" />
+      <item value="Исследование и замена query параметров на параметрв в теле " />
+      <item value="Исследование и замена query параметров на параметрв в т" />
+      <item value="Исследование и замена query параметров на параметрв " />
+      <item value="Исследование и замена query параметров на параметр" />
+      <item value="Исследование и замена query параметров на пара" />
+      <item value="Исследование и замена query параметров на " />
+      <item value="Исследование и замена  параметров на " />
+      <item value="Исследование и замена квери параметров на " />
+      <item value="Исследование и замена квери параметров " />
+      <item value="Исследование и замена " />
+      <item value="Исследование и замена" />
+      <item value="Исс" />
+      <item value="Re" />
       <item value="Pagination doesn't work in this list" />
       <item value="should one type job mast be selected" />
       <item value="technical -&gt; great! they explicitly said, that HJB is superior to all websites and projects the have, they really like it&#10;UIUX -&gt; the have quite some points which they want to change" />
@@ -39,28 +55,12 @@
       <item value="Я закончил " />
       <item value="Я зак" />
       <item value="Z pfrjyxbk" />
-      <item value="Z pf" />
-      <item value="Для проверки на клиенте" />
-      <item value="Для проверки на кли" />
-      <item value="Для проверки на клин" />
-      <item value="Для проверки на " />
-      <item value="Д" />
-      <item value="ДЛя" />
-      <item value="нужно перетестировать" />
-      <item value="нужно пере" />
-      <item value="Ye" />
-      <item value="The task is done, but it was not deployed on the stage" />
-      <item value="Ye;yj gthtntcnbhjdfnm" />
-      <item value="Ye;yj gtht" />
-      <item value="Здача сделана, только не была задеплоена на stage" />
-      <item value="Здача сделана, только не была задеплоена на " />
-      <item value="Здача сделана, " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="85" />
+        <entry key="RUSSIAN" value="86" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
