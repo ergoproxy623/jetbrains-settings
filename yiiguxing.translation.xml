@@ -1,10 +1,26 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1088" />
+    <option name="newTranslationDialogWidth" value="1084" />
     <option name="newTranslationDialogX" value="1882" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="Impruvment кода создания job" />
+      <item value="Impruvment кода создания " />
+      <item value="Impruvment кода создан" />
+      <item value="Impruvment кода созданя" />
+      <item value="Impruvment кода созданя " />
+      <item value="Impruvment кода со" />
+      <item value="Impruvment " />
+      <item value="Impruvment rjlf" />
+      <item value="Impruvment" />
+      <item value="Impru" />
+      <item value="Imp" />
+      <item value="Im" />
+      <item value="поднятие уровня покрытия тестами" />
+      <item value="Gjlyznbt eh" />
+      <item value="Gjlyznbt ehjdyz ntcnjd" />
+      <item value="Gjlyznbt ehjdyz " />
       <item value="дефиз" />
       <item value="дефи" />
       <item value="антрацыт" />
@@ -39,28 +55,12 @@
       <item value="На UI готово. Переделали отображаемые результаты по " />
       <item value="На UI готово. Переделали отображаемые результаты " />
       <item value="На UI готово. Переделали отображаемые результаты" />
-      <item value="На UI готово. Переделали " />
-      <item value="На UI готово. Переделали" />
-      <item value="На UI готово. Переделал" />
-      <item value="На UI готово. Перед" />
-      <item value="На UI готово. Передлали" />
-      <item value="На UI готово. " />
-      <item value="На UI готово." />
-      <item value="На UI готово" />
-      <item value="На UI го" />
-      <item value="На UI говото" />
-      <item value="На UI " />
-      <item value="На UI ujnjdj/" />
-      <item value="На UI ujnjdj" />
-      <item value="На UI" />
-      <item value="На " />
-      <item value="На ГШ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="64" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="86" />
+        <entry key="RUSSIAN" value="88" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
