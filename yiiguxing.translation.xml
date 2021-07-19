@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1084" />
+    <option name="newTranslationDialogWidth" value="1082" />
     <option name="newTranslationDialogX" value="1882" />
     <option name="newTranslationDialogY" value="388" />
     <histories>
+      <item value="плохие слова" />
+      <item value="gkj[bt ckjdf" />
+      <item value="gkj" />
+      <item value="g" />
       <item value="Impruvment кода создания job" />
       <item value="Impruvment кода создания " />
       <item value="Impruvment кода создан" />
@@ -51,16 +55,12 @@
       <item value="Две" />
       <item value="ДВа" />
       <item value="На UI готово. Переделали отображаемые результаты по аналогии с поиском улиц." />
-      <item value="На UI готово. Переделали отображаемые результаты по аналогии с " />
-      <item value="На UI готово. Переделали отображаемые результаты по " />
-      <item value="На UI готово. Переделали отображаемые результаты " />
-      <item value="На UI готово. Переделали отображаемые результаты" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="66" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="88" />
+        <entry key="RUSSIAN" value="90" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
