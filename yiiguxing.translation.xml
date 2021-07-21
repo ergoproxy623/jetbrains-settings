@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1078" />
+    <option name="newTranslationDialogWidth" value="1076" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Почти закончил" />
+      <item value="Почти " />
+      <item value="Gjxnb pfrjyxb" />
+      <item value="Gjxnb pfrjyxbk" />
       <item value="Зачем ты передвинул мою задачу, если она еще не была готова? Переводим задачу только тогда, когда она развернута на тест. Чтобы не вводить в заблуждение Тамаса" />
       <item value="Зачем ты  мою задачу, если она еще не была готова? Переводим задачу только тогда, когда она развернута на тест. Чтобы не вводить в заблуждение Тамаса" />
       <item value="Зачем  мою задачу, если она еще не была готова? Переводим задачу только тогда, когда она развернута на тест. Чтобы не вводить в заблуждение Тамаса" />
@@ -51,16 +55,12 @@
       <item value="Impruvment кода создания job" />
       <item value="Impruvment кода создания " />
       <item value="Impruvment кода создан" />
-      <item value="Impruvment кода созданя" />
-      <item value="Impruvment кода созданя " />
-      <item value="Impruvment кода со" />
-      <item value="Impruvment " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="96" />
+        <entry key="RUSSIAN" value="97" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
