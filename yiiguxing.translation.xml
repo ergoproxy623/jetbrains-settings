@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1055" />
-    <option name="newTranslationDialogX" value="1783" />
-    <option name="newTranslationDialogY" value="312" />
+    <option name="newTranslationDialogWidth" value="1051" />
+    <option name="newTranslationDialogX" value="2186" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="сообщение валидации нужно изменять на BE" />
+      <item value="сообщение валидации нужно изменять на " />
+      <item value="сообщение валидации " />
+      <item value="сообщение валида" />
+      <item value="сообщение " />
+      <item value="сооб" />
+      <item value="Cjj,otybt dfkblfwbb" />
+      <item value="Cjj," />
+      <item value="маштаб" />
+      <item value="vf" />
       <item value="Нужно уменьшить все индексы после 1 на  1" />
       <item value="Нужно уменьшить все инфексы после 1 на  1" />
       <item value="Нужно уменшить все инфексы после 1 на  1" />
@@ -45,22 +55,12 @@
       <item value="Я нашел ошибку " />
       <item value="Я " />
       <item value="Z yfitk" />
-      <item value="Пожалуйста, прими" />
-      <item value="Пожалуйста, прими пулл " />
-      <item value="Пожалуйста, прими " />
-      <item value="Пожалуйста, " />
-      <item value="Пожалуйста" />
-      <item value="По" />
-      <item value="Gj;fkeqcnf" />
-      <item value="Gj" />
-      <item value="Пожалуйста, довавь сюда креды" />
-      <item value="Пожалуйста, довавь сюда " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="86" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="109" />
+        <entry key="RUSSIAN" value="111" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
