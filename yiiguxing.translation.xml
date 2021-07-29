@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1051" />
-    <option name="newTranslationDialogX" value="2186" />
+    <option name="newTranslationDialogWidth" value="1049" />
+    <option name="newTranslationDialogX" value="824" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="looks great I wish I had seen moremof these earlier. How much work is left ? So that new UI has same functionality as old UI?" />
       <item value="сообщение валидации нужно изменять на BE" />
       <item value="сообщение валидации нужно изменять на " />
       <item value="сообщение валидации " />
@@ -54,13 +55,12 @@
       <item value="Я нашел ошибку почему не работает" />
       <item value="Я нашел ошибку " />
       <item value="Я " />
-      <item value="Z yfitk" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="86" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="111" />
+        <entry key="RUSSIAN" value="112" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
