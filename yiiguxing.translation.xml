@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1051" />
+    <option name="newTranslationDialogWidth" value="1049" />
     <option name="newTranslationDialogX" value="2186" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Не соотвествует выбранному" />
+      <item value="Не соотвествует выбран" />
+      <item value="Не соотвествует " />
+      <item value="Не соотвествует с" />
+      <item value="Не соотвествует с " />
+      <item value="Не соо" />
+      <item value="Yt" />
       <item value="сообщение валидации нужно изменять на BE" />
       <item value="сообщение валидации нужно изменять на " />
       <item value="сообщение валидации " />
@@ -48,19 +55,12 @@
       <item value="Я нашел ошибку почему не работает info-video. Cgbcjr" />
       <item value="Я нашел ошибку почему не работает info-video" />
       <item value="Я нашел ошибку почему не работает info-video/ " />
-      <item value="Я нашел ошибку почему не работает info-" />
-      <item value="Я нашел ошибку почему не работает info" />
-      <item value="Я нашел ошибку почему не работает " />
-      <item value="Я нашел ошибку почему не работает" />
-      <item value="Я нашел ошибку " />
-      <item value="Я " />
-      <item value="Z yfitk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="86" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="111" />
+        <entry key="ENGLISH" value="87" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="112" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
