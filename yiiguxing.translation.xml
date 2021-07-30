@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1049" />
-    <option name="newTranslationDialogX" value="824" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1047" />
+    <option name="newTranslationDialogX" value="317" />
+    <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="Проработал 20 мин и упал" />
+      <item value="Проработал 20 мин и " />
+      <item value="Проработал " />
+      <item value="Про" />
+      <item value="Сервер упа" />
+      <item value="Сервер упал" />
+      <item value="Cthdth" />
+      <item value="Cth" />
       <item value="looks great I wish I had seen moremof these earlier. How much work is left ? So that new UI has same functionality as old UI?" />
       <item value="сообщение валидации нужно изменять на BE" />
       <item value="сообщение валидации нужно изменять на " />
@@ -47,20 +55,12 @@
       <item value="Я нашел ошибку почему не работает info-video. Ендпоинт " />
       <item value="Я нашел ошибку почему не работает info-video. " />
       <item value="Я нашел ошибку почему не работает info-video. Cgbcjr" />
-      <item value="Я нашел ошибку почему не работает info-video" />
-      <item value="Я нашел ошибку почему не работает info-video/ " />
-      <item value="Я нашел ошибку почему не работает info-" />
-      <item value="Я нашел ошибку почему не работает info" />
-      <item value="Я нашел ошибку почему не работает " />
-      <item value="Я нашел ошибку почему не работает" />
-      <item value="Я нашел ошибку " />
-      <item value="Я " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="88" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="112" />
+        <entry key="RUSSIAN" value="114" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
