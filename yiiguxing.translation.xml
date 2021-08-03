@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1045" />
-    <option name="newTranslationDialogX" value="317" />
-    <option name="newTranslationDialogY" value="226" />
+    <option name="newTranslationDialogWidth" value="1039" />
+    <option name="newTranslationDialogX" value="2186" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Sales_Person is a role that is allocated to a specific store. &#10;&#10;Vodafone_Manager is a tole allocated to Headquarter. " />
+      <item value="Сейчас работает, спасибо" />
+      <item value="Сейчас работает" />
+      <item value="Сейчас работает? cgfcb,j" />
+      <item value="Сейчас работает? " />
+      <item value="Ctqxfc hf,jnftn" />
+      <item value="Вы шутите?" />
+      <item value="Dwsienbnt" />
+      <item value="Dwsienbnt&amp;" />
+      <item value="he backend did not crash at all, there are simply requests where they do not account for possible errors,&#10;and simply does not transmit responsiveness and that's it" />
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял этого пользователя я убиваю сервер. " />
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял э я убиваю сервер. " />
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходим я убиваю сервер. " />
@@ -45,28 +55,18 @@
       <item value="Я трачу свое и ваше время. Была сделанна правка " />
       <item value="Я трачу свое и ваше время. Была сделанна " />
       <item value="Я трачу свое и ваше время. Была сделанна" />
-      <item value="Я трачу свое и ваше время. " />
-      <item value="Я трачу свое и ваше время" />
-      <item value="Я трачу свое и ваше время время" />
-      <item value="Я трачу свое время" />
-      <item value="Я " />
-      <item value="Z nhfxe cdjt b vj" />
-      <item value="Проработал 20 мин и упал" />
-      <item value="Проработал 20 мин и " />
-      <item value="Проработал " />
-      <item value="Про" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="89" />
+        <entry key="ENGLISH" value="92" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="115" />
+        <entry key="RUSSIAN" value="119" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627284584331" />
+    <option name="lastTrimTime" value="1627894770312" />
   </component>
 </application>
