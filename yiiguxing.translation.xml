@@ -1,10 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1039" />
-    <option name="newTranslationDialogX" value="2186" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1017" />
+    <option name="newTranslationDialogX" value="2185" />
+    <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="leichte-sprache" />
+      <item value="leichte Zunge" />
+      <item value="легкий язык" />
+      <item value="о нас" />
+      <item value="about-us" />
+      <item value="защита данных" />
+      <item value="datenschutz" />
+      <item value="язык знаков" />
+      <item value="gebardensprache" />
+      <item value="Характеристики" />
+      <item value="steckbrief" />
+      <item value="объявление о работе" />
+      <item value="stellenanzeige" />
       <item value="Sales_Person is a role that is allocated to a specific store. &#10;&#10;Vodafone_Manager is a tole allocated to Headquarter. " />
       <item value="Сейчас работает, спасибо" />
       <item value="Сейчас работает" />
@@ -42,25 +55,12 @@
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда " />
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. " />
       <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан " />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. " />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одн строчку" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одун строчку" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одун сстрочку" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одун с" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в " />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в один коммит" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка " />
-      <item value="Я трачу свое и ваше время. Была сделанна " />
-      <item value="Я трачу свое и ваше время. Была сделанна" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="92" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="119" />
+        <entry key="ENGLISH" value="102" />
+        <entry key="GERMAN" value="7" />
+        <entry key="RUSSIAN" value="138" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
