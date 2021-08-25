@@ -1,10 +1,13 @@
 <application>
+  <component name="DiffApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="diomidtreumov" />
+          <option name="userName" value="artur_holianyk" />
         </UrlAndUserName>
       </list>
     </option>

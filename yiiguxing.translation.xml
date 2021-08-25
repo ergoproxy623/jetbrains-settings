@@ -1,70 +1,72 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1530" />
-    <option name="newTranslationDialogX" value="62" />
-    <option name="newTranslationDialogY" value="310" />
+    <option name="newTranslationDialogWidth" value="1011" />
+    <option name="newTranslationDialogX" value="2185" />
+    <option name="newTranslationDialogY" value="485" />
     <histories>
-      <item value="Decline" />
-      <item value="принять" />
-      <item value="инят" />
-      <item value="ghbyz " />
-      <item value="actions" />
-      <item value="рефакторить" />
-      <item value="факторить" />
-      <item value="выровнять" />
-      <item value="ровнять" />
-      <item value="import {MatDialog, MatPaginator, MatSort} from &quot;@angularmaterial&quot;; import {SelectionModel} from &quot;@angularcdkcollections&quot;; import {debounceTime, distinctUntilChanged, tap} from &quot;rxjsoperators&quot;;" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx," />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через NgRx?" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Ng" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через " />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через ТпКч" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля состояния через Тп" />
-      <item value="Рефакторинг компонента выбора языка, добавление контроля сос" />
-      <item value="Рефакторинг компонента выбора языка, добавление " />
-      <item value="Рефакторинг компонента выбора языка, добавление" />
-      <item value="Рефакторинг компонента выбора языка, до" />
-      <item value="Рефакторинг компонента выбора языка, " />
-      <item value="Рефакторинг компонента выбора языка" />
-      <item value="Рефакторинг компонента выбора " />
-      <item value="Рефакторинг компонента" />
-      <item value="Рефакторинг " />
-      <item value="ФИО" />
-      <item value="AB" />
-      <item value="перед" />
-      <item value="пере" />
-      <item value="ред" />
-      <item value="единичные числа&#10;" />
-      <item value="единичные числа" />
-      <item value="jlbybxyst" />
-      <item value="Горизонтально" />
-      <item value="Гориз" />
-      <item value="Горизона" />
-      <item value="Гори" />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. Начнем с авторизации и " />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. Начнем с авторизации" />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. НАчнем с авторизации" />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. НАчнем с " />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. НАчнем " />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала. " />
-      <item value="NgRX  импплементирвать неправильно. Стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
-      <item value="NgRX  импплементирвать неправильно. тору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
-      <item value="NgRX  импплементирвать неправильно.тору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала." />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение функционала" />
-      <item value="NgRX  импплементирвать неправильно. Всю стору нужно отрефакторить что бы улучшить дальнейшую поддержку и расширение йункционала" />
+      <item value="Жду фикса на BE" />
+      <item value="Жду фикса на " />
+      <item value="старый баг с обеих сторон. Я исправил ту часть что FE." />
+      <item value="старый баг с обеих сторон. Я исправил ту част что FE." />
+      <item value="старый баг с обеих сторон. Я исправил  FE." />
+      <item value="старый баг с обеих сторон. Я исправил конечную фиксацию FE." />
+      <item value="старый баг с обеих сторон. Я испра конечную фиксацию FE." />
+      <item value="старый баг с обеих сторон. Я испраdbk конечную фиксацию FE." />
+      <item value="старый баг с обеих сторон. Я исправляю конечную фиксацию FE." />
+      <item value="old bug from both side. I fix end commit FE part." />
+      <item value="Блокер снят, xlsx добавлен." />
+      <item value="Блокер снят, xlsx добавлен" />
+      <item value="Блокер снят, xlsx" />
+      <item value="Блокер снят, " />
+      <item value="Блокер снят, чдыч" />
+      <item value="Блокер снят, чд" />
+      <item value="Блокер снят, ексель добавлен" />
+      <item value="Блокер снят, уксель добавлен" />
+      <item value="Блокер снят, ксель добавлен" />
+      <item value="Блокер снят, Ексель добавлен" />
+      <item value="Блокер снят, ЕКсель добавлен" />
+      <item value="Блокер снят, ЕКсе" />
+      <item value="Блокер снят" />
+      <item value="Блокер" />
+      <item value="leichte-sprache" />
+      <item value="leichte Zunge" />
+      <item value="легкий язык" />
+      <item value="о нас" />
+      <item value="about-us" />
+      <item value="защита данных" />
+      <item value="datenschutz" />
+      <item value="язык знаков" />
+      <item value="gebardensprache" />
+      <item value="Характеристики" />
+      <item value="steckbrief" />
+      <item value="объявление о работе" />
+      <item value="stellenanzeige" />
+      <item value="Sales_Person is a role that is allocated to a specific store. &#10;&#10;Vodafone_Manager is a tole allocated to Headquarter. " />
+      <item value="Сейчас работает, спасибо" />
+      <item value="Сейчас работает" />
+      <item value="Сейчас работает? cgfcb,j" />
+      <item value="Сейчас работает? " />
+      <item value="Ctqxfc hf,jnftn" />
+      <item value="Вы шутите?" />
+      <item value="Dwsienbnt" />
+      <item value="Dwsienbnt&amp;" />
+      <item value="he backend did not crash at all, there are simply requests where they do not account for possible errors,&#10;and simply does not transmit responsiveness and that's it" />
+      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял этого пользователя я убиваю сервер. " />
+      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял э я убиваю сервер. " />
+      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходим я убиваю сервер. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="11" />
-        <entry key="RUSSIAN" value="11" />
+        <entry key="ENGLISH" value="103" />
+        <entry key="GERMAN" value="7" />
+        <entry key="RUSSIAN" value="140" />
+        <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617300908950" />
+    <option name="lastTrimTime" value="1628605573044" />
   </component>
 </application>
