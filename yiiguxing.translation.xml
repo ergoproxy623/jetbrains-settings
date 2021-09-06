@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1009" />
+    <option name="newTranslationDialogWidth" value="1007" />
     <option name="newTranslationDialogX" value="2185" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="is value mathed" />
+      <item value="is value mat" />
+      <item value="is value " />
       <item value="Посомтри пожалуйста. Данные отправляються но при GET value = null" />
       <item value="Посомтри пожалуйста. Данные отпрвляються но при GET value = null" />
       <item value="Посомтри пожалуйста. Данные отпарвляються но при GET value = null" />
@@ -52,21 +55,18 @@
       <item value="leichte-sprache" />
       <item value="leichte Zunge" />
       <item value="легкий язык" />
-      <item value="о нас" />
-      <item value="about-us" />
-      <item value="защита данных" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="103" />
         <entry key="GERMAN" value="7" />
-        <entry key="RUSSIAN" value="141" />
+        <entry key="RUSSIAN" value="142" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630331111627" />
+    <option name="lastTrimTime" value="1630923448429" />
   </component>
 </application>
