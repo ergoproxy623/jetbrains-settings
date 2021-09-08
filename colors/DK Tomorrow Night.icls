@@ -548,7 +548,7 @@
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
         <option name="FOREGROUND" value="e78c45" />
