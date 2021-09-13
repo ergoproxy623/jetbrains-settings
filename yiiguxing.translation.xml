@@ -1,10 +1,33 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1011" />
+    <option name="newTranslationDialogWidth" value="1007" />
     <option name="newTranslationDialogX" value="2185" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="is value mathed" />
+      <item value="is value mat" />
+      <item value="is value " />
+      <item value="Посомтри пожалуйста. Данные отправляються но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные отпрвляються но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные отпарвляються но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные  но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные jnghfdkz.nmcz но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные уходят но при GET value = null" />
+      <item value="Посомтри пожалуйста. Данные уходят но при GET value = " />
+      <item value="Посомтри пожалуйста. Данные уходят но при GET " />
+      <item value="Посомтри пожалуйста. Данные уходят но при GET не " />
+      <item value="Посомтри пожалуйста. Данные уходят но при GET" />
+      <item value="Посомтри пожалуйста. Данные уходят но при г" />
+      <item value="Посомтри пожалуйста. Данные уходят но при гете " />
+      <item value="Посомтри пожалуйста. Данные уходят но при гете" />
+      <item value="Посомтри пожалуйста. Данные уходят но " />
+      <item value="Посомтри пожалуйста. Данные уходят " />
+      <item value="Посомтри пожалуйста. Данные " />
+      <item value="Посомтри пожалуйста" />
+      <item value="Посомтри по" />
+      <item value="Посомтри " />
+      <item value="Einsatzort" />
       <item value="Жду фикса на BE" />
       <item value="Жду фикса на " />
       <item value="старый баг с обеих сторон. Я исправил ту часть что FE." />
@@ -32,41 +55,18 @@
       <item value="leichte-sprache" />
       <item value="leichte Zunge" />
       <item value="легкий язык" />
-      <item value="о нас" />
-      <item value="about-us" />
-      <item value="защита данных" />
-      <item value="datenschutz" />
-      <item value="язык знаков" />
-      <item value="gebardensprache" />
-      <item value="Характеристики" />
-      <item value="steckbrief" />
-      <item value="объявление о работе" />
-      <item value="stellenanzeige" />
-      <item value="Sales_Person is a role that is allocated to a specific store. &#10;&#10;Vodafone_Manager is a tole allocated to Headquarter. " />
-      <item value="Сейчас работает, спасибо" />
-      <item value="Сейчас работает" />
-      <item value="Сейчас работает? cgfcb,j" />
-      <item value="Сейчас работает? " />
-      <item value="Ctqxfc hf,jnftn" />
-      <item value="Вы шутите?" />
-      <item value="Dwsienbnt" />
-      <item value="Dwsienbnt&amp;" />
-      <item value="he backend did not crash at all, there are simply requests where they do not account for possible errors,&#10;and simply does not transmit responsiveness and that's it" />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял этого пользователя я убиваю сервер. " />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходимых дял э я убиваю сервер. " />
-      <item value="Я трачу свое и ваше время. Была сделанна правка в одну строчку. Был дан доступ на получение информации с ендпоинта. Когда я пытаюсь запросить информацию с двух других () неоходим я убиваю сервер. " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="103" />
         <entry key="GERMAN" value="7" />
-        <entry key="RUSSIAN" value="140" />
+        <entry key="RUSSIAN" value="142" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628605573044" />
+    <option name="lastTrimTime" value="1630923448429" />
   </component>
 </application>
