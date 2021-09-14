@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2185" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Retry" />
       <item value="чистка" />
       <item value="xbcnrf" />
       <item value="is value mathed" />
@@ -54,13 +55,12 @@
       <item value="Блокер снят, ЕКсе" />
       <item value="Блокер снят" />
       <item value="Блокер" />
-      <item value="leichte-sprache" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="104" />
         <entry key="GERMAN" value="7" />
-        <entry key="RUSSIAN" value="143" />
+        <entry key="RUSSIAN" value="144" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
