@@ -1,0 +1,68 @@
+<scheme name="Darcula my Theme" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-07-08T16:09:39</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2021-10-19T12:59:45</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="f83538" />
+    <option name="GUTTER_BACKGROUND" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="3520b" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3c3d40" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="3a403e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3f413d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="423e3c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="423a3a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="423738" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3e2929" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="88ae0" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
