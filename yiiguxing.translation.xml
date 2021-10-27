@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="1005" />
-    <option name="newTranslationDialogX" value="2185" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogWidth" value="1001" />
+    <option name="newTranslationDialogX" value="824" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Ihre Nachricht wurde erfolgreich übermittelt. Ihren&#10;                      &lt;br /&gt;Nachrichtenverlauf können Sie in Ihrem" />
+      <item value="Сегодня день поломок техники. Наконец то нормально включили интерне" />
+      <item value="Сегодня" />
+      <item value="Сего" />
+      <item value="Сегодня день поломок техники. Наконец то нормально включили интернет" />
+      <item value="Сегодня день поломок техники. Наконец то нормально включили интенет" />
+      <item value="Сегодня день поломок техники. Наконец то нормально включили интренет" />
       <item value="Retry" />
       <item value="чистка" />
       <item value="xbcnrf" />
@@ -48,19 +55,12 @@
       <item value="Блокер снят, чдыч" />
       <item value="Блокер снят, чд" />
       <item value="Блокер снят, ексель добавлен" />
-      <item value="Блокер снят, уксель добавлен" />
-      <item value="Блокер снят, ксель добавлен" />
-      <item value="Блокер снят, Ексель добавлен" />
-      <item value="Блокер снят, ЕКсель добавлен" />
-      <item value="Блокер снят, ЕКсе" />
-      <item value="Блокер снят" />
-      <item value="Блокер" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="GERMAN" value="7" />
-        <entry key="RUSSIAN" value="144" />
+        <entry key="RUSSIAN" value="146" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
