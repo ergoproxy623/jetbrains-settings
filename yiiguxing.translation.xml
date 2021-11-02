@@ -1,10 +1,28 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="999" />
-    <option name="newTranslationDialogX" value="824" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="997" />
+    <option name="newTranslationDialogX" value="13" />
+    <option name="newTranslationDialogY" value="239" />
     <histories>
+      <item value="Все фильтра возвращаются  с BE." />
+      <item value="Все фильтра возвращаются  с BE" />
+      <item value="Все фильтра волзвращаются  с BE" />
+      <item value="Все фильтра волз с BE" />
+      <item value="Все фильтра вол с BE" />
+      <item value="Все фильтра  с BE" />
+      <item value="Все фильтра djpdhfof.ncz с BE" />
+      <item value="Все фильтра djpdhfof.n с BE" />
+      <item value="Все фильтра djp с BE" />
+      <item value="Все фильтра dj с BE" />
+      <item value="Все фильтра я с BE" />
+      <item value="Все фильтра восстанавливаються с BE" />
+      <item value="Все фильтра восстанавливаються с BE/" />
+      <item value="Все фильтра восстанавливаються с " />
+      <item value="Все фильтра восстанавливаються с ИУ" />
+      <item value="Все фильтра восстанавливаються " />
+      <item value="Все фильтра " />
+      <item value="Все " />
       <item value="Продлить" />
       <item value="Ghjlkbnm" />
       <item value="Ihre Nachricht wurde erfolgreich übermittelt. Ihren&#10;                      &lt;br /&gt;Nachrichtenverlauf können Sie in Ihrem" />
@@ -37,24 +55,6 @@
       <item value="Посомтри пожалуйста. Данные уходят " />
       <item value="Посомтри пожалуйста. Данные " />
       <item value="Посомтри пожалуйста" />
-      <item value="Посомтри по" />
-      <item value="Посомтри " />
-      <item value="Einsatzort" />
-      <item value="Жду фикса на BE" />
-      <item value="Жду фикса на " />
-      <item value="старый баг с обеих сторон. Я исправил ту часть что FE." />
-      <item value="старый баг с обеих сторон. Я исправил ту част что FE." />
-      <item value="старый баг с обеих сторон. Я исправил  FE." />
-      <item value="старый баг с обеих сторон. Я исправил конечную фиксацию FE." />
-      <item value="старый баг с обеих сторон. Я испра конечную фиксацию FE." />
-      <item value="старый баг с обеих сторон. Я испраdbk конечную фиксацию FE." />
-      <item value="старый баг с обеих сторон. Я исправляю конечную фиксацию FE." />
-      <item value="old bug from both side. I fix end commit FE part." />
-      <item value="Блокер снят, xlsx добавлен." />
-      <item value="Блокер снят, xlsx добавлен" />
-      <item value="Блокер снят, xlsx" />
-      <item value="Блокер снят, " />
-      <item value="Блокер снят, чдыч" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631609072406" />
+    <option name="lastTrimTime" value="1635760394344" />
   </component>
 </application>
