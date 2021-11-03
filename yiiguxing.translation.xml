@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="997" />
+    <option name="newTranslationDialogWidth" value="995" />
     <option name="newTranslationDialogX" value="13" />
-    <option name="newTranslationDialogY" value="239" />
+    <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="ABOVE" />
       <item value="Все фильтра возвращаются  с BE." />
       <item value="Все фильтра возвращаются  с BE" />
       <item value="Все фильтра волзвращаются  с BE" />
@@ -54,7 +55,6 @@
       <item value="Посомтри пожалуйста. Данные уходят но " />
       <item value="Посомтри пожалуйста. Данные уходят " />
       <item value="Посомтри пожалуйста. Данные " />
-      <item value="Посомтри пожалуйста" />
     </histories>
     <option name="languageScores">
       <map>
