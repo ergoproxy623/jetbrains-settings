@@ -1,0 +1,9 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Cdi" categories="@Inject" />
+      </map>
+    </option>
+  </component>
+</application>
