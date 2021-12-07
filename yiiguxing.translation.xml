@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="995" />
-    <option name="newTranslationDialogX" value="13" />
+    <option name="newTranslationDialogWidth" value="991" />
+    <option name="newTranslationDialogX" value="72" />
     <option name="newTranslationDialogY" value="226" />
     <histories>
+      <item value="Первое не воспроизвелось" />
+      <item value="Первое не " />
+      <item value="Пе" />
+      <item value="Gthdjt yt " />
+      <item value="Gt" />
+      <item value="isuess" />
+      <item value="i" />
       <item value="ABOVE" />
       <item value="Все фильтра возвращаются  с BE." />
       <item value="Все фильтра возвращаются  с BE" />
@@ -48,19 +55,12 @@
       <item value="Посомтри пожалуйста. Данные уходят но при GET value = " />
       <item value="Посомтри пожалуйста. Данные уходят но при GET " />
       <item value="Посомтри пожалуйста. Данные уходят но при GET не " />
-      <item value="Посомтри пожалуйста. Данные уходят но при GET" />
-      <item value="Посомтри пожалуйста. Данные уходят но при г" />
-      <item value="Посомтри пожалуйста. Данные уходят но при гете " />
-      <item value="Посомтри пожалуйста. Данные уходят но при гете" />
-      <item value="Посомтри пожалуйста. Данные уходят но " />
-      <item value="Посомтри пожалуйста. Данные уходят " />
-      <item value="Посомтри пожалуйста. Данные " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="107" />
         <entry key="GERMAN" value="8" />
-        <entry key="RUSSIAN" value="146" />
+        <entry key="RUSSIAN" value="148" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
