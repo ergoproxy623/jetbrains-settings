@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="991" />
-    <option name="newTranslationDialogX" value="72" />
-    <option name="newTranslationDialogY" value="226" />
+    <option name="newTranslationDialogWidth" value="989" />
+    <option name="newTranslationDialogX" value="2295" />
+    <option name="newTranslationDialogY" value="355" />
     <histories>
+      <item value="работа не существует" />
+      <item value="hf,jnf yt ceotcndet" />
+      <item value="hf,jnf yt ceotcndetn" />
+      <item value="hf,jnf yt ceot" />
+      <item value="hf,jnf yt " />
+      <item value="h" />
+      <item value="hf" />
       <item value="Первое не воспроизвелось" />
       <item value="Первое не " />
       <item value="Пе" />
@@ -48,13 +55,6 @@
       <item value="is value " />
       <item value="Посомтри пожалуйста. Данные отправляються но при GET value = null" />
       <item value="Посомтри пожалуйста. Данные отпрвляються но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные отпарвляються но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные  но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные jnghfdkz.nmcz но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные уходят но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные уходят но при GET value = " />
-      <item value="Посомтри пожалуйста. Данные уходят но при GET " />
-      <item value="Посомтри пожалуйста. Данные уходят но при GET не " />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635760394344" />
+    <option name="lastTrimTime" value="1639395060270" />
   </component>
 </application>
