@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="989" />
-    <option name="newTranslationDialogX" value="2295" />
-    <option name="newTranslationDialogY" value="355" />
+    <option name="newTranslationDialogWidth" value="987" />
+    <option name="newTranslationDialogX" value="2181" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Resource is not available" />
+      <item value="Ressource ist nicht verfügbar" />
       <item value="работа не существует" />
       <item value="hf,jnf yt ceotcndet" />
       <item value="hf,jnf yt ceotcndetn" />
@@ -53,14 +55,12 @@
       <item value="is value mathed" />
       <item value="is value mat" />
       <item value="is value " />
-      <item value="Посомтри пожалуйста. Данные отправляються но при GET value = null" />
-      <item value="Посомтри пожалуйста. Данные отпрвляються но при GET value = null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="107" />
-        <entry key="GERMAN" value="8" />
-        <entry key="RUSSIAN" value="148" />
+        <entry key="ENGLISH" value="108" />
+        <entry key="GERMAN" value="9" />
+        <entry key="RUSSIAN" value="149" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
