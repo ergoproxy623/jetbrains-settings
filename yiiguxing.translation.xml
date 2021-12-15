@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="983" />
+    <option name="newTranslationDialogWidth" value="981" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Sie haben sich erfolgreich ausgeloggt" />
       <item value="Stellenanzeige wurde erfolgreich gelöscht" />
       <item value="Ihre Anzeige wurde erfolgreich gespeichert" />
       <item value="Ihre Anzeige wurde erfolgreich veröffentlicht" />
@@ -54,7 +55,6 @@
       <item value="Сегодня день поломок техники. Наконец то нормально включили интренет" />
       <item value="Retry" />
       <item value="чистка" />
-      <item value="xbcnrf" />
     </histories>
     <option name="languageScores">
       <map>
