@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="987" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Stellenanzeige wurde erfolgreich gelöscht" />
+      <item value="Ihre Anzeige wurde erfolgreich gespeichert" />
+      <item value="Ihre Anzeige wurde erfolgreich veröffentlicht" />
       <item value="Resource is not available" />
       <item value="Ressource ist nicht verfügbar" />
       <item value="работа не существует" />
@@ -52,9 +55,6 @@
       <item value="Retry" />
       <item value="чистка" />
       <item value="xbcnrf" />
-      <item value="is value mathed" />
-      <item value="is value mat" />
-      <item value="is value " />
     </histories>
     <option name="languageScores">
       <map>
