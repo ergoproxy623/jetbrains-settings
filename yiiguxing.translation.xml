@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="979" />
+    <option name="newTranslationDialogWidth" value="977" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="ппредыдыщий" />
+      <item value="ппредыды" />
+      <item value="ппреды" />
       <item value="И уборка кода" />
       <item value="И уборка " />
       <item value="И " />
@@ -52,9 +55,6 @@
       <item value="Ihre Nachricht wurde erfolgreich übermittelt. Ihren&#10;                      &lt;br /&gt;Nachrichtenverlauf können Sie in Ihrem" />
       <item value="Сегодня день поломок техники. Наконец то нормально включили интерне" />
       <item value="Сегодня" />
-      <item value="Сего" />
-      <item value="Сегодня день поломок техники. Наконец то нормально включили интернет" />
-      <item value="Сегодня день поломок техники. Наконец то нормально включили интенет" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639395060270" />
+    <option name="lastTrimTime" value="1641381092861" />
   </component>
 </application>
