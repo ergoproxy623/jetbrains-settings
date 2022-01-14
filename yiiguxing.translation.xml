@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="973" />
-    <option name="newTranslationDialogX" value="2181" />
+    <option name="newTranslationDialogWidth" value="971" />
+    <option name="newTranslationDialogX" value="2182" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Проверь пожалуйста" />
+      <item value=" пожалуйста" />
+      <item value="Ghjdthm пожалуйста" />
+      <item value="Посмотри пожалуйста" />
+      <item value="Take a look please" />
+      <item value="Take a look " />
+      <item value="Take a l" />
       <item value="это BE bug" />
       <item value="это BE " />
       <item value="это BE игп" />
@@ -48,25 +55,18 @@
       <item value="ABOVE" />
       <item value="Все фильтра возвращаются  с BE." />
       <item value="Все фильтра возвращаются  с BE" />
-      <item value="Все фильтра волзвращаются  с BE" />
-      <item value="Все фильтра волз с BE" />
-      <item value="Все фильтра вол с BE" />
-      <item value="Все фильтра  с BE" />
-      <item value="Все фильтра djpdhfof.ncz с BE" />
-      <item value="Все фильтра djpdhfof.n с BE" />
-      <item value="Все фильтра djp с BE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="GERMAN" value="9" />
-        <entry key="RUSSIAN" value="149" />
+        <entry key="RUSSIAN" value="151" />
         <entry key="UKRAINIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641381092861" />
+    <option name="lastTrimTime" value="1642144092059" />
   </component>
 </application>
