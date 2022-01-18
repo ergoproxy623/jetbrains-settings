@@ -1,10 +1,34 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="971" />
-    <option name="newTranslationDialogX" value="2182" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogX" value="1600" />
+    <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Компания не отредактированна" />
+      <item value="Компания не отредактированная" />
+      <item value="Компания  отредактированная" />
+      <item value="Компания успешно отредактированная" />
+      <item value="Компания " />
+      <item value="rjvfgybz ecgtiyj jnhtlfrnbhjdfyyyfz" />
+      <item value="rjvfgybz ecgtiyj " />
+      <item value="rj" />
+      <item value="не додано до бази даних" />
+      <item value="has not been added to the database" />
+      <item value="Компанія BOLAGSNAMN не видалена з бази даних" />
+      <item value="Company BOLAGSNAMN not  deleted from the database" />
+      <item value="Company BOLAGSNAMN not successfully deleted from the database" />
+      <item value="Company BOLAGSNAMNnot successfully deleted from the database" />
+      <item value="Company ${this.form.get('BOLAGSNAMNnot successfully deleted from the database" />
+      <item value="Company ${this.form.get('BOLAGSNAMN').value} not successfully deleted from the database" />
+      <item value="Текст кнопки регистрации" />
+      <item value="Текст кнопки ре" />
+      <item value="Текст " />
+      <item value="Текс" />
+      <item value="Текст регистрации" />
+      <item value="Текст р" />
+      <item value="Текст ре" />
+      <item value="Регистрация" />
       <item value="Проверь пожалуйста" />
       <item value=" пожалуйста" />
       <item value="Ghjdthm пожалуйста" />
@@ -31,37 +55,13 @@
       <item value="ппреды" />
       <item value="И уборка кода" />
       <item value="И уборка " />
-      <item value="И " />
-      <item value="Sie haben sich erfolgreich ausgeloggt" />
-      <item value="Stellenanzeige wurde erfolgreich gelöscht" />
-      <item value="Ihre Anzeige wurde erfolgreich gespeichert" />
-      <item value="Ihre Anzeige wurde erfolgreich veröffentlicht" />
-      <item value="Resource is not available" />
-      <item value="Ressource ist nicht verfügbar" />
-      <item value="работа не существует" />
-      <item value="hf,jnf yt ceotcndet" />
-      <item value="hf,jnf yt ceotcndetn" />
-      <item value="hf,jnf yt ceot" />
-      <item value="hf,jnf yt " />
-      <item value="h" />
-      <item value="hf" />
-      <item value="Первое не воспроизвелось" />
-      <item value="Первое не " />
-      <item value="Пе" />
-      <item value="Gthdjt yt " />
-      <item value="Gt" />
-      <item value="isuess" />
-      <item value="i" />
-      <item value="ABOVE" />
-      <item value="Все фильтра возвращаются  с BE." />
-      <item value="Все фильтра возвращаются  с BE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="109" />
-        <entry key="GERMAN" value="9" />
+        <entry key="ENGLISH" value="111" />
+        <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="151" />
-        <entry key="UKRAINIAN" value="1" />
+        <entry key="UKRAINIAN" value="4" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
