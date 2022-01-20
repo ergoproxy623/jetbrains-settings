@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogWidth" value="955" />
     <option name="newTranslationDialogX" value="1600" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="нужно значение добавлять в формате" />
+      <item value="нужно значение добавлять в форма" />
+      <item value="нужно з" />
+      <item value="нужно " />
+      <item value="rjulf " />
       <item value="Компания не отредактированна" />
       <item value="Компания не отредактированная" />
       <item value="Компания  отредактированная" />
@@ -50,11 +55,6 @@
       <item value="поведение иконки базируется на этом " />
       <item value="поведение иконки " />
       <item value="поведение " />
-      <item value="ппредыдыщий" />
-      <item value="ппредыды" />
-      <item value="ппреды" />
-      <item value="И уборка кода" />
-      <item value="И уборка " />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642144092059" />
+    <option name="lastTrimTime" value="1642687240698" />
   </component>
 </application>
