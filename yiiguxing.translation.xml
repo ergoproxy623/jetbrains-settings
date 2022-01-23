@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="955" />
-    <option name="newTranslationDialogX" value="1600" />
+    <option name="newTranslationDialogWidth" value="953" />
+    <option name="newTranslationDialogX" value="965" />
     <option name="newTranslationDialogY" value="425" />
     <histories>
+      <item value="Следующая попытка" />
+      <item value="Следующая по" />
+      <item value="Следую" />
+      <item value="Следу" />
+      <item value="cktle." />
       <item value="нужно значение добавлять в формате" />
       <item value="нужно значение добавлять в форма" />
       <item value="нужно з" />
@@ -50,11 +55,6 @@
       <item value="это " />
       <item value="это ИУ" />
       <item value="This is " />
-      <item value="This " />
-      <item value="поведение иконки базируется на этом флаге" />
-      <item value="поведение иконки базируется на этом " />
-      <item value="поведение иконки " />
-      <item value="поведение " />
     </histories>
     <option name="languageScores">
       <map>
