@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="947" />
-    <option name="newTranslationDialogX" value="2181" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="945" />
+    <option name="newTranslationDialogX" value="2177" />
+    <option name="newTranslationDialogY" value="483" />
     <histories>
+      <item value="Это не баг" />
+      <item value=" не баг" />
+      <item value="не баг" />
       <item value="Muss mindestens 1 betragen" />
       <item value="uss mindestens 1 betragen" />
       <item value="muss mindestens 1 betragen" />
@@ -52,9 +55,6 @@
       <item value="Регистрация" />
       <item value="Проверь пожалуйста" />
       <item value=" пожалуйста" />
-      <item value="Ghjdthm пожалуйста" />
-      <item value="Посмотри пожалуйста" />
-      <item value="Take a look please" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642687240698" />
+    <option name="lastTrimTime" value="1643122160779" />
   </component>
 </application>
