@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="949" />
+    <option name="newTranslationDialogWidth" value="947" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Muss mindestens 1 betragen" />
+      <item value="uss mindestens 1 betragen" />
+      <item value="muss mindestens 1 betragen" />
+      <item value="Die wöchentliche Stundenzahl muss mindestens 1 betragen" />
       <item value="меньше единицы" />
       <item value="mt" />
       <item value="Такое время уже выбранно" />
@@ -51,10 +55,6 @@
       <item value="Ghjdthm пожалуйста" />
       <item value="Посмотри пожалуйста" />
       <item value="Take a look please" />
-      <item value="Take a look " />
-      <item value="Take a l" />
-      <item value="это BE bug" />
-      <item value="это BE " />
     </histories>
     <option name="languageScores">
       <map>
