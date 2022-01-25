@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="951" />
-    <option name="newTranslationDialogX" value="413" />
-    <option name="newTranslationDialogY" value="226" />
+    <option name="newTranslationDialogWidth" value="949" />
+    <option name="newTranslationDialogX" value="2181" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="меньше единицы" />
+      <item value="mt" />
       <item value="Такое время уже выбранно" />
       <item value="Такое время уже " />
       <item value="Такое время у" />
@@ -53,8 +55,6 @@
       <item value="Take a l" />
       <item value="это BE bug" />
       <item value="это BE " />
-      <item value="это BE игп" />
-      <item value="это BE" />
     </histories>
     <option name="languageScores">
       <map>
