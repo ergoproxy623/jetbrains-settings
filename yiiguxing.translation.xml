@@ -1,10 +1,24 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="943" />
+    <option name="newTranslationDialogWidth" value="939" />
     <option name="newTranslationDialogX" value="2177" />
     <option name="newTranslationDialogY" value="483" />
     <histories>
+      <item value="dodnt" />
+      <item value="dod" />
+      <item value="третий, четвертыйб пятый. шестой" />
+      <item value="третий, четвертыйб пятый шестой" />
+      <item value="третий, четвертыйб пятыйб шестой" />
+      <item value="третий, четвертыйб пятыйБ шестой" />
+      <item value="третий, четвертыйб пятыйБ " />
+      <item value="третий, четвертыйб пятый" />
+      <item value="третий, четвертый" />
+      <item value="третий, " />
+      <item value="nhtnbq? xtndthnsq? gznsq ? itcnjq" />
+      <item value="nhtnbq? xtndthnsq? gznsq ? " />
+      <item value="nhtnbq? xtndthnsq? gznsq " />
+      <item value="nhtnbq? xtndthnsq? g" />
       <item value="у них нету интернета" />
       <item value="у них нету " />
       <item value="у ни" />
@@ -41,20 +55,6 @@
       <item value="rjvfgybz ecgtiyj jnhtlfrnbhjdfyyyfz" />
       <item value="rjvfgybz ecgtiyj " />
       <item value="rj" />
-      <item value="не додано до бази даних" />
-      <item value="has not been added to the database" />
-      <item value="Компанія BOLAGSNAMN не видалена з бази даних" />
-      <item value="Company BOLAGSNAMN not  deleted from the database" />
-      <item value="Company BOLAGSNAMN not successfully deleted from the database" />
-      <item value="Company BOLAGSNAMNnot successfully deleted from the database" />
-      <item value="Company ${this.form.get('BOLAGSNAMNnot successfully deleted from the database" />
-      <item value="Company ${this.form.get('BOLAGSNAMN').value} not successfully deleted from the database" />
-      <item value="Текст кнопки регистрации" />
-      <item value="Текст кнопки ре" />
-      <item value="Текст " />
-      <item value="Текс" />
-      <item value="Текст регистрации" />
-      <item value="Текст р" />
     </histories>
     <option name="languageScores">
       <map>
