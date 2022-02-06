@@ -1,25 +1,25 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/bin/node">
-      <version-cache version="12.22.5" last-modified="1632303381000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
-      <version-cache version="15.14.0" last-modified="1617732558000" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.16.1/bin/node">
       <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.15.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.0.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node">
-      <version-cache version="12.22.7" last-modified="1634013829000" />
     </local-interpreter>
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="12.22.5" last-modified="1632303381000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v15.14.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.16.1/bin/node">
+      <version-cache version="14.16.1" last-modified="1617730118000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.15.0/bin/node">
+      <version-cache version="14.15.0" last-modified="1603801408000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.0.0/bin/node">
+      <version-cache version="14.0.0" last-modified="1587469681000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node">
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
 </application>
