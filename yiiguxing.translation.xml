@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="933" />
-    <option name="newTranslationDialogX" value="824" />
+    <option name="newTranslationDialogWidth" value="929" />
+    <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Выбрать" />
+      <item value="Подтвердить" />
+      <item value="ok" />
+      <item value="Cancel" />
       <item value="чем две" />
       <item value="чем л" />
       <item value="более чем две" />
@@ -51,15 +55,11 @@
       <item value="Количество ко" />
       <item value="Количество " />
       <item value="amount" />
-      <item value="фщгте" />
-      <item value="ф" />
-      <item value="dodnt" />
-      <item value="dod" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="114" />
-        <entry key="GERMAN" value="16" />
+        <entry key="GERMAN" value="18" />
         <entry key="RUSSIAN" value="152" />
         <entry key="UKRAINIAN" value="6" />
         <entry key="INDONESIAN" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643122160779" />
+    <option name="lastTrimTime" value="1643893730357" />
   </component>
 </application>
