@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="927" />
+    <option name="newTranslationDialogWidth" value="925" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="микрофон был сломан" />
+      <item value="vbrhjjay ,sk " />
       <item value="очистить" />
       <item value="очи" />
       <item value="jxbncbnm" />
@@ -53,14 +55,12 @@
       <item value="Digital Industries в год" />
       <item value="Digital Industries " />
       <item value="Digital Industries d ujl" />
-      <item value="Digital Industries" />
-      <item value="Digital " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="114" />
         <entry key="GERMAN" value="17" />
-        <entry key="RUSSIAN" value="152" />
+        <entry key="RUSSIAN" value="153" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
