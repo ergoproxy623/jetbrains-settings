@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="925" />
-    <option name="newTranslationDialogX" value="2181" />
-    <option name="newTranslationDialogY" value="484" />
+    <option name="newTranslationDialogWidth" value="1376" />
+    <option name="newTranslationDialogX" value="1600" />
+    <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="We are allowed to send personal data only via POST in body - not in GET parameters.&#10;Do we have any GET enpoints where we query personal data? In profile for example?" />
+      <item value="Имплементировано" />
+      <item value="Имплементир" />
+      <item value="Имплементиро" />
+      <item value="Имплементирано" />
+      <item value="мплементировано" />
+      <item value="имплементировано" />
+      <item value="имплем" />
+      <item value="имп" />
+      <item value="им" />
       <item value="Нужен для добавления комментария" />
       <item value="Нужен для д" />
       <item value="Нужен для " />
@@ -45,22 +55,12 @@
       <item value="Нужно добавить более информативн" />
       <item value="Нужно добавить более информатив" />
       <item value="Нужно добавить более информати" />
-      <item value="Нужно добавить более " />
-      <item value="Нужно добавить " />
-      <item value="Нужно до" />
-      <item value="Нужно " />
-      <item value="Ein unbekannter Fehler ist aufgetreten" />
-      <item value="чем две" />
-      <item value="чем л" />
-      <item value="более чем две" />
-      <item value="более чем дв" />
-      <item value="более чем два" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="GERMAN" value="17" />
-        <entry key="RUSSIAN" value="157" />
+        <entry key="RUSSIAN" value="159" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
