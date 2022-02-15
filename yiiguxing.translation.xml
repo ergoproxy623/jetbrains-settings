@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="927" />
+    <option name="newTranslationDialogWidth" value="925" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Нужен для добавления комментария" />
+      <item value="Нужен для д" />
+      <item value="Нужен для " />
+      <item value="Нужен для редак" />
+      <item value="Нужен для редакт" />
+      <item value="Нужен " />
+      <item value="Ye;y" />
+      <item value="Ye;" />
+      <item value="Реализовано" />
+      <item value="Implemented" />
+      <item value="Imlemented" />
+      <item value="Im" />
       <item value="очистить" />
       <item value="очи" />
       <item value="jxbncbnm" />
@@ -43,30 +55,18 @@
       <item value="более чем две" />
       <item value="более чем дв" />
       <item value="более чем два" />
-      <item value=",jk" />
-      <item value="Фонды Digital Industries в год" />
-      <item value="Фо Digital Industries в год" />
-      <item value="Фон Digital Industries в год" />
-      <item value="Фонтды Digital Industries в год" />
-      <item value="Фонт Digital Industries в год" />
-      <item value=" Digital Industries в год" />
-      <item value="Digital Industries в год" />
-      <item value="Digital Industries " />
-      <item value="Digital Industries d ujl" />
-      <item value="Digital Industries" />
-      <item value="Digital " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="118" />
         <entry key="GERMAN" value="17" />
-        <entry key="RUSSIAN" value="152" />
+        <entry key="RUSSIAN" value="157" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644219997040" />
+    <option name="lastTrimTime" value="1644909231342" />
   </component>
 </application>
