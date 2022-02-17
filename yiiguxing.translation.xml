@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="923" />
+    <option name="newTranslationDialogWidth" value="921" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="не поддерживает" />
+      <item value="не поддер" />
+      <item value="не " />
       <item value="верхний" />
       <item value="веорхний" />
       <item value="нижный" />
@@ -52,9 +55,6 @@
       <item value=",jk" />
       <item value="Фонды Digital Industries в год" />
       <item value="Фо Digital Industries в год" />
-      <item value="Фон Digital Industries в год" />
-      <item value="Фонтды Digital Industries в год" />
-      <item value="Фонт Digital Industries в год" />
     </histories>
     <option name="languageScores">
       <map>
