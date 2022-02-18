@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="921" />
+    <option name="newTranslationDialogWidth" value="919" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="лейбл статуса нужно изменять на BE" />
+      <item value="лейбл статуса нужно изменять на " />
+      <item value="лейбл статуса " />
+      <item value="лей" />
       <item value="не поддерживает" />
       <item value="не поддер" />
       <item value="не " />
@@ -51,10 +55,6 @@
       <item value="чем л" />
       <item value="более чем две" />
       <item value="более чем дв" />
-      <item value="более чем два" />
-      <item value=",jk" />
-      <item value="Фонды Digital Industries в год" />
-      <item value="Фо Digital Industries в год" />
     </histories>
     <option name="languageScores">
       <map>
