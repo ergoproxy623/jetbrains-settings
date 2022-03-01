@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="917" />
+    <option name="newTranslationDialogWidth" value="913" />
     <option name="newTranslationDialogX" value="2181" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value=" {&#10;    path: RoutesNames.dataProtection,&#10;    loadChildren: () =&gt;&#10;      import('./pages/privacy/static-privacy.module').then(&#10;        (m) =&gt; m.StaticPrivacyPageModule&#10;      ),&#10;  }," />
       <item value="жта функция не имплеменитированная" />
       <item value="жта функция не имплеменит" />
       <item value="жта функция не имплеменито" />
@@ -54,7 +55,6 @@
       <item value="Нужно добавить более информативное сообщение. " />
       <item value="Нужно добавить более информативное сообщение " />
       <item value="Нужно добавить более информативн" />
-      <item value="Нужно добавить более информатив" />
     </histories>
     <option name="languageScores">
       <map>
