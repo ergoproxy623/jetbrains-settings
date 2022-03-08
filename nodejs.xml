@@ -19,7 +19,7 @@
       <version-cache version="14.0.0" last-modified="1587469681000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node">
-      <version-cache version="12.22.7" last-modified="1634013829000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
 </application>
