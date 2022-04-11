@@ -1,72 +1,72 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="907" />
+    <option name="newTranslationDialogWidth" value="899" />
     <option name="newTranslationDialogX" value="2744" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Agree" />
+      <item value="Sie müssen volljährig sein" />
+      <item value="Форма должна очищаться после отправки и после отмены" />
+      <item value="Форма должна очищаться после отправки и " />
+      <item value="Форма должна очищаться после отправки " />
+      <item value="Форма должна очищаться " />
+      <item value="Форма должна очищаться при о" />
+      <item value="Форма должна очищаться при оп" />
+      <item value="Форма должна очи" />
+      <item value="Ajhvf ljk;yf jxbofnmcz" />
+      <item value="Ajhvf " />
+      <item value="Добавить автоматическую очистку поля ввода для чата в обьявлениях" />
+      <item value="Добавить автоматическую очистку поля ввода для чата в обьявлениях " />
+      <item value="Добавить автоматическую очистку поля ввода дял чата в обьявлениях" />
+      <item value="Добавить автоматическую очистку поля ввода дял чата в " />
+      <item value="Добавить автоматическую очистку поля ввода дял чата " />
+      <item value="Добавить автоматическую очистку поля ввода " />
+      <item value="Добавить автоматическую очистку поля ввода в " />
+      <item value="Добавить автоматическую очистку " />
+      <item value="Добавить автоматическую " />
+      <item value="Добавить автоматическую ол" />
+      <item value="Добавить " />
+      <item value="До" />
+      <item value="Дова" />
+      <item value="Lj" />
+      <item value="Добавить очистку формы чата в карточках" />
+      <item value="Добавить очистку формы чат в карточках" />
+      <item value="Добавить очистку формы чатф в карточках" />
+      <item value="Добавить очистку формы чаат в карточках" />
+      <item value="Добавить очистку формы чаат в каточках" />
+      <item value="Добавить очистку формы чаат в каточка" />
+      <item value="Добавить очистку формы чаат " />
+      <item value="Добавить очистку формы " />
+      <item value="Добавить очист" />
+      <item value="Добавить E2E тесты для фильтров" />
+      <item value="Добавить E2E тести для фильтров" />
+      <item value="Добавить E2E тести дл фильтров" />
+      <item value="Добавить E2E тести дял фильтров" />
+      <item value="Добавить E2E " />
+      <item value="Добавить E2E" />
+      <item value="Добавить E2E п" />
+      <item value=" E2E" />
+      <item value="Lj,fdbnm E2E" />
+      <item value="Lj,fdbnm" />
+      <item value="Lj,fdbnm У" />
+      <item value="Lj,fdbnm " />
       <item value="Sie müssen volljährig sein, um sich registrieren zu können" />
       <item value="always" />
       <item value="check invoking endpoints" />
       <item value=" {&#10;    path: RoutesNames.dataProtection,&#10;    loadChildren: () =&gt;&#10;      import('./pages/privacy/static-privacy.module').then(&#10;        (m) =&gt; m.StaticPrivacyPageModule&#10;      ),&#10;  }," />
-      <item value="жта функция не имплеменитированная" />
-      <item value="жта функция не имплеменит" />
-      <item value="жта функция не имплеменито" />
-      <item value="жта функция не имп" />
-      <item value="жта функция не импе" />
-      <item value="жта функция не им" />
-      <item value="жта функция не и" />
-      <item value="жта ф" />
-      <item value="'nf" />
-      <item value="'" />
-      <item value="лейбл статуса нужно изменять на BE" />
-      <item value="лейбл статуса нужно изменять на " />
-      <item value="лейбл статуса " />
-      <item value="лей" />
-      <item value="не поддерживает" />
-      <item value="не поддер" />
-      <item value="не " />
-      <item value="верхний" />
-      <item value="веорхний" />
-      <item value="нижный" />
-      <item value="yb;" />
-      <item value="микрофон был сломан" />
-      <item value="vbrhjjay ,sk " />
-      <item value="очистить" />
-      <item value="очи" />
-      <item value="jxbncbnm" />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message по аналогии  с другими оишбками" />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message по аналогии  с другими " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message по аналогии  с другими" />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message по аналогии " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message п оаналогии " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message п оаналогии" />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_message gj fyfkjubb" />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_me " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local_ " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить local " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить  " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавить " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добави " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавиь " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и добавиь  " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и до " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель и  " />
-      <item value="Нужно добавить более информативное сообщение. Либо расширить модель " />
-      <item value="Нужно добавить более информативное сообщение.  " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="115" />
         <entry key="GERMAN" value="17" />
-        <entry key="RUSSIAN" value="154" />
+        <entry key="RUSSIAN" value="155" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644926945215" />
+    <option name="lastTrimTime" value="1649331399980" />
   </component>
 </application>
