@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="897" />
+    <option name="newTranslationDialogWidth" value="895" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Die wöchentliche Stundenzahl muss mindestens 1 betragen" />
+      <item value="Bitte mindestens einen Tätigkeitsbereich auswählen" />
       <item value="Иконки пропали" />
       <item value="ИКонки пропали" />
       <item value="ИКонки " />
@@ -53,8 +55,6 @@
       <item value=" E2E" />
       <item value="Lj,fdbnm E2E" />
       <item value="Lj,fdbnm" />
-      <item value="Lj,fdbnm У" />
-      <item value="Lj,fdbnm " />
     </histories>
     <option name="languageScores">
       <map>
