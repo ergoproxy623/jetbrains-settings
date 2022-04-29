@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="893" />
+    <option name="newTranslationDialogWidth" value="891" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="улучшение" />
       <item value="Muss mindestens eine Stunde pro Woche sein." />
       <item value="Die wöchentliche Stundenzahl muss mindestens 1 betragen" />
       <item value="Bitte mindestens einen Tätigkeitsbereich auswählen" />
@@ -54,7 +55,6 @@
       <item value="Добавить E2E" />
       <item value="Добавить E2E п" />
       <item value=" E2E" />
-      <item value="Lj,fdbnm E2E" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649331399980" />
+    <option name="lastTrimTime" value="1651146884068" />
   </component>
 </application>
