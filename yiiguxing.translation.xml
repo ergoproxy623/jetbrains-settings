@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="885" />
+    <option name="newTranslationDialogWidth" value="883" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Die wöchentliche Stundenzahl muss mindestens 1 betragen." />
       <item value="Рабочий стол" />
       <item value="Раб" />
       <item value="hf,jxbq cnjk" />
@@ -54,7 +55,6 @@
       <item value="Добавить очист" />
       <item value="Добавить E2E тесты для фильтров" />
       <item value="Добавить E2E тести для фильтров" />
-      <item value="Добавить E2E тести дл фильтров" />
     </histories>
     <option name="languageScores">
       <map>
