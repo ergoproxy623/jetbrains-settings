@@ -1,10 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="883" />
+    <option name="newTranslationDialogWidth" value="879" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="dev и stage теперь работают. Магия" />
+      <item value="dev and stage are working now. Magic" />
+      <item value="работяют сейчас" />
+      <item value="работя" />
+      <item value="hf,jn.n jgznm" />
+      <item value="hf,jn" />
+      <item value="если сборщик открыт, пользователь не может ввести дату вручную" />
+      <item value="if picker is open user don't have ability enter date manually" />
+      <item value="вручную" />
+      <item value="уголок" />
+      <item value="угол" />
+      <item value="уголло" />
+      <item value="eujk" />
       <item value="Die wöchentliche Stundenzahl muss mindestens 1 betragen." />
       <item value="Рабочий стол" />
       <item value="Раб" />
@@ -42,25 +55,12 @@
       <item value="Добавить автоматическую ол" />
       <item value="Добавить " />
       <item value="До" />
-      <item value="Дова" />
-      <item value="Lj" />
-      <item value="Добавить очистку формы чата в карточках" />
-      <item value="Добавить очистку формы чат в карточках" />
-      <item value="Добавить очистку формы чатф в карточках" />
-      <item value="Добавить очистку формы чаат в карточках" />
-      <item value="Добавить очистку формы чаат в каточках" />
-      <item value="Добавить очистку формы чаат в каточка" />
-      <item value="Добавить очистку формы чаат " />
-      <item value="Добавить очистку формы " />
-      <item value="Добавить очист" />
-      <item value="Добавить E2E тесты для фильтров" />
-      <item value="Добавить E2E тести для фильтров" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="117" />
         <entry key="GERMAN" value="19" />
-        <entry key="RUSSIAN" value="155" />
+        <entry key="RUSSIAN" value="159" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
