@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="877" />
+    <option name="newTranslationDialogWidth" value="875" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="если я отправляю более одного, я получаю сообщение об ошибке" />
+      <item value="if i submit more than one i get an error" />
+      <item value="если я отправлю более одного, я получаю сообщение об ошибке" />
+      <item value="if i send more then one I get error" />
+      <item value="Множественный" />
+      <item value="Мно" />
+      <item value="vyj;tcndtyysq" />
+      <item value="vyj" />
       <item value="dev и stage теперь работают. Магия" />
       <item value="dev and stage are working now. Magic" />
       <item value="работяют сейчас" />
@@ -47,26 +55,18 @@
       <item value="Добавить автоматическую очистку поля ввода для чата в обьявлениях " />
       <item value="Добавить автоматическую очистку поля ввода дял чата в обьявлениях" />
       <item value="Добавить автоматическую очистку поля ввода дял чата в " />
-      <item value="Добавить автоматическую очистку поля ввода дял чата " />
-      <item value="Добавить автоматическую очистку поля ввода " />
-      <item value="Добавить автоматическую очистку поля ввода в " />
-      <item value="Добавить автоматическую очистку " />
-      <item value="Добавить автоматическую " />
-      <item value="Добавить автоматическую ол" />
-      <item value="Добавить " />
-      <item value="До" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="120" />
         <entry key="GERMAN" value="19" />
-        <entry key="RUSSIAN" value="159" />
+        <entry key="RUSSIAN" value="163" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651671304701" />
+    <option name="lastTrimTime" value="1652358455670" />
   </component>
 </application>
