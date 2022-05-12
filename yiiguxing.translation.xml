@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="875" />
+    <option name="newTranslationDialogWidth" value="873" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Источник" />
       <item value="если я отправляю более одного, я получаю сообщение об ошибке" />
       <item value="if i submit more than one i get an error" />
       <item value="если я отправлю более одного, я получаю сообщение об ошибке" />
@@ -54,12 +55,11 @@
       <item value="Добавить автоматическую очистку поля ввода для чата в обьявлениях" />
       <item value="Добавить автоматическую очистку поля ввода для чата в обьявлениях " />
       <item value="Добавить автоматическую очистку поля ввода дял чата в обьявлениях" />
-      <item value="Добавить автоматическую очистку поля ввода дял чата в " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="120" />
-        <entry key="GERMAN" value="19" />
+        <entry key="GERMAN" value="20" />
         <entry key="RUSSIAN" value="163" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
