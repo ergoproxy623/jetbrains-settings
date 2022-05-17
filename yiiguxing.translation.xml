@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="902" />
+    <option name="newTranslationDialogWidth" value="900" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Скопированно" />
       <item value="Потому что Z это нулевой часовой пояс, Гринвич. поэтому по Немецкому времени это будет +2 часа, полночь" />
       <item value="Потому что Z это нулевой часовой пояс, Гринвич. поэтому по Немецкому времени это будет +2 часа, полно" />
       <item value="Потому что Z это нулевой часовой пояс, Гринвич. поэтому по Немецкому времени это будет +2 часа, " />
@@ -54,13 +55,12 @@
       <item value="Sorry, the merge didn't load. There are changes to the theme." />
       <item value="Извините, слияние не загрузилось. В теме есть изменения" />
       <item value="Sorry, the merge didn't load. There are changes in the thread" />
-      <item value="Извините, слияние не загрузилось. В ветке остались изменения" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="125" />
-        <entry key="GERMAN" value="20" />
-        <entry key="RUSSIAN" value="169" />
+        <entry key="ENGLISH" value="126" />
+        <entry key="GERMAN" value="21" />
+        <entry key="RUSSIAN" value="170" />
         <entry key="UKRAINIAN" value="7" />
         <entry key="INDONESIAN" value="1" />
       </map>
