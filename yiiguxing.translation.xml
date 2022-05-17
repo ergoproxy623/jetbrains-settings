@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="540" />
-    <option name="newTranslationDialogWidth" value="900" />
+    <option name="newTranslationDialogWidth" value="898" />
     <option name="newTranslationDialogX" value="2743" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="женщины" />
+      <item value="жен" />
+      <item value=";tyobys" />
+      <item value=";ty" />
       <item value="Скопированно" />
       <item value="Потому что Z это нулевой часовой пояс, Гринвич. поэтому по Немецкому времени это будет +2 часа, полночь" />
       <item value="Потому что Z это нулевой часовой пояс, Гринвич. поэтому по Немецкому времени это будет +2 часа, полно" />
@@ -51,10 +55,6 @@
       <item value="Bpvtytybz jcnfkbcm d dtnrt" />
       <item value="B" />
       <item value="." />
-      <item value="Извините, слияние не загрузилось. Есть изменения в теме." />
-      <item value="Sorry, the merge didn't load. There are changes to the theme." />
-      <item value="Извините, слияние не загрузилось. В теме есть изменения" />
-      <item value="Sorry, the merge didn't load. There are changes in the thread" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652358455670" />
+    <option name="lastTrimTime" value="1652791019675" />
   </component>
 </application>
